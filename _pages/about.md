@@ -77,7 +77,7 @@ Yu Li, Kun Qian, **Weiyan Shi**, Zhou Yu
 *EMNLP 2019* 
 
 * [Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good](https://arxiv.org/pdf/1906.06725.pdf)  
-Xuewei Wang*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang, Zhou Yu  
+Xuewei Wang*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang, Zhou Yu    
 *ACL 2019, Best Paper Nomination*
 
 * [Unsupervised Dialog Structure Learning](https://arxiv.org/pdf/1904.03736.pdf)  
