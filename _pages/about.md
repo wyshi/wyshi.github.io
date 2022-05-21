@@ -32,11 +32,13 @@ My research interests are in Natural Language Processing, specifically **Dialog 
 
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
 Models](https://arxiv.org/pdf/2204.07667.pdf)  
-**Weiyan Shi**, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu, *arXiv, 2022*
+**Weiyan Shi**, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu  
+*arXiv, 2022*
 <br>
 
 * [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialog](https://arxiv.org/pdf/2203.07657.pdf)  
-Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu, *arXiv, 2022*
+Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu  
+*arXiv, 2022*
 <br>
 
 ## Publications
@@ -71,12 +73,12 @@ Yu Li, Josh Arnold, Feifan Yan, **Weiyan Shi**, Zhou Yu
 <br>
 
 * [PRAL: A tailored pre-training model for task-oriented dialog generation](https://aclanthology.org/2021.acl-short.40.pdf)  
-Jing Gu, Qingyang Wu, Chongruo Wu, **Weiyan Shi**, Zhou Yu
+Jing Gu, Qingyang Wu, Chongruo Wu, **Weiyan Shi**, Zhou Yu  
 *ACL 2021*
 <br>
 
 * [INSPIRED: Toward Sociable Recommendation Dialog Systems](https://arxiv.org/pdf/2009.14306.pdf)  
-Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, **Weiyan Shi**, Zhou Yu   
+Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, **Weiyan Shi**, Zhou Yu  
 *EMNLP 2020* 
 <br>
 
@@ -91,17 +93,17 @@ Youzhi Tian, **Weiyan Shi**, Chen Li, Zhou Yu
 <br>
 
 * [Effects of Persuasive Dialogs: Testing Bot Identities and Inquiry Strategies](https://arxiv.org/pdf/2001.04564.pdf)  
-**Weiyan Shi**, Xuewei Wang,Yoo Jung Oh, Jingwen Zhang, Saurav Sahay, Zhou Yu  
-*CHI 2020*  [video]()
+**Weiyan Shi**, Xuewei Wang,Yoo Jung Oh, Jingwen Zhang, Saurav Sahay, Zhou Yu    
+*CHI 2020*
 <br>
 
 * [End-to-End Trainable Non-Collaborative Dialog System](https://arxiv.org/pdf/1911.10742.pdf)  
-Yu Li, Kun Qian, **Weiyan Shi**, Zhou Yu  
+Yu Li, Kun Qian, **Weiyan Shi**, Zhou Yu    
 *AAAI 2020*
 <br>
 
 * [How to Build User Simulators to Train RL-based Dialog Systems](https://arxiv.org/pdf/1909.01388.pdf)  
-**Weiyan Shi\***, Kun Qian* (equal contribution), Xuewei Wang, Zhou Yu  
+**Weiyan Shi\***, Kun Qian* (equal contribution), Xuewei Wang, Zhou Yu    
 *EMNLP 2019* 
 <br>
 
