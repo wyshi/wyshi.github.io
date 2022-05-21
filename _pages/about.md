@@ -35,7 +35,7 @@ My research interests are in Natural Language Processing, specifically **Dialog 
 Models](https://arxiv.org/pdf/2204.07667.pdf)  
 **Weiyan Shi**, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu 
 arXiv, 2022
-
+<br>
 
 * [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialog](https://arxiv.org/pdf/2203.07657.pdf)  
 Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu
@@ -47,6 +47,7 @@ arXiv, 2022
 * [Selective Differential Privacy for Language Modeling](https://arxiv.org/pdf/2108.12944.pdf)  
 **Weiyan Shi**, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu  
 *NAACL 2022*, [code and data](https://github.com/wyshi/lm_privacy)
+<br>
 
 <!-- * [What Does the Bot Do? Detecting Repetition and Contradiction in Dialogs by Asking and Answering Questions]
 **Weiyan Shi**, Mary Williamson, Jason Weston, Mike Lewis, Zhou Yu
