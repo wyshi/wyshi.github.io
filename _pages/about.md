@@ -45,6 +45,7 @@ Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sa
 **Weiyan Shi**, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu  
 *NAACL 2022*, [code and data](https://github.com/wyshi/lm_privacy)
 <br>
+</br>
 
 <!-- * [What Does the Bot Do? Detecting Repetition and Contradiction in Dialogs by Asking and Answering Questions]
 **Weiyan Shi**, Mary Williamson, Jason Weston, Mike Lewis, Zhou Yu
@@ -75,7 +76,7 @@ Jing Gu, Qingyang Wu, Chongruo Wu, **Weiyan Shi**, Zhou Yu
 <br>
 
 * [INSPIRED: Toward Sociable Recommendation Dialog Systems](https://arxiv.org/pdf/2009.14306.pdf)  
-Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, **Weiyan Shi**, Zhou Yu 
+Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, **Weiyan Shi**, Zhou Yu   
 *EMNLP 2020* 
 <br>
 
@@ -121,10 +122,12 @@ Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, S
 
 ## Teaching
 *Guest Lecturer (on Dialog Systems)*, Natural Language Processing
+
 Columbia Universty, Spring 2022
 
 
 *Teaching Assistant*, Conversational AI Special Topics
+
 Columbia University, Spring 2021
 
 ## Service
