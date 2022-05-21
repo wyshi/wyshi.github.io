@@ -108,7 +108,7 @@ Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, S
 **Weiyan Shi**, Zhou Yu  
 *ACL 2018*
 
-New Preprints
+**New Preprints**
 
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
 Models](https://arxiv.org/pdf/2204.07667.pdf)  
