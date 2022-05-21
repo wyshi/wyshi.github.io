@@ -33,11 +33,13 @@ My research interests are in Natural Language Processing, specifically **Dialog 
 ## Preprints
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
 Models](https://arxiv.org/pdf/2204.07667.pdf)
+
 **Weiyan Shi**, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu
 arXiv, 2022
 <br>
 
 * [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialog](https://arxiv.org/pdf/2203.07657.pdf)
+
 Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu
 arXiv, 2022
 
@@ -130,6 +132,7 @@ Columbia University, Spring 2021
 ## Service
 <!-- **Conference reviewer**: ACL 2019, ACL 2020, *SEM 2020, ICLR 2021, AAAI 2021, EACL 2021, NAACL 2021, ACL 2021, *SEM 2021, NeurlPS 2021, EMNLP 2021, NLPCC 2021, ICLR 2022, AAAI 2022, ICML 2022, ACL 2022, CHI 2022, SIGDIAL 2022, HCI+NLP workshop at NAACL 2022, ACL Rolling Review -->
 **Publicity Chair**, [The 4th Workshop for Conversational AI](https://sites.google.com/view/4thnlp4convai), ACL 2022
+
 **Conference reviewer**: ACL, EACL, NAACL, EMNLP, *SEM, ICLR, AAAI, NeurlPS, ICML, CHI, NLPCC, ACL Rolling Review 
 **Journal reviewer**: ACM Transactions on Human-Robot Interaction, Neurocomputing, ACM Transactions on Information Systems
 
