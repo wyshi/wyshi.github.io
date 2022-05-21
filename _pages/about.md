@@ -35,7 +35,7 @@ My research interests are in Natural Language Processing, specifically **Dialog 
 Models](https://arxiv.org/pdf/2204.07667.pdf)  
 **Weiyan Shi**, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu 
 arXiv, 2022
-<br>
+
 
 * [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialog](https://arxiv.org/pdf/2203.07657.pdf)  
 Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu
@@ -71,7 +71,7 @@ Yu Li, Josh Arnold, Feifan Yan, **Weiyan Shi**, Zhou Yu
 *ACL 2021 Demo*
 <br>
 
-* [PRAL: A tailored pre-training model for task-oriented dialog generation](https://aclanthology.org/2021.acl-short.40.pdf)
+* [PRAL: A tailored pre-training model for task-oriented dialog generation](https://aclanthology.org/2021.acl-short.40.pdf)  
 Jing Gu, Qingyang Wu, Chongruo Wu, **Weiyan Shi**, Zhou Yu
 *ACL 2021*
 <br>
