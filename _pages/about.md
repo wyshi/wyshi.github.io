@@ -123,13 +123,10 @@ Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, S
 <br>
 
 ## Teaching
-*Guest Lecturer (on Dialog Systems)*, Natural Language Processing
+*Guest Lecturer (on Dialog Systems)*, Natural Language Processing  
+Columbia Universty, Spring 2022  
 
-Columbia Universty, Spring 2022
-
-
-*Teaching Assistant*, Conversational AI Special Topics
-
+*Teaching Assistant*, Conversational AI Special Topics    
 Columbia University, Spring 2021
 
 ## Service
