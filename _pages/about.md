@@ -17,7 +17,7 @@ Email: ws2634 [at] columbia [dot] edu
 ## Research Interests
 My research interests are in Natural Language Processing, specifically **Dialog Systems** 🤖 and the following directions:
 * **Strategic and social influence dialog systems**, e.g., persuasive dialogs ([ACL 2019](https://arxiv.org/pdf/1906.06725.pdf), [CHI 2020](https://arxiv.org/pdf/2001.04564.pdf), [EMNLP 2021](https://arxiv.org/pdf/2012.15375.pdf))
-* **Responsible dialog generation**, i.e., addressing repetition, contradiction, other problems in the dialog response  ([EMNLP 2021](https://arxiv.org/pdf/2012.15375.pdf))
+* **Responsible dialog generation**, i.e., addressing repetition, contradiction, and other problems in the dialog response  ([EMNLP 2021](https://arxiv.org/pdf/2012.15375.pdf))
 * **Privacy-preserving NLP models** ([NAACL 2021](https://arxiv.org/pdf/2108.12944.pdf), [New Preprint](https://arxiv.org/pdf/2204.07667.pdf)) 
 
 ## Awards
@@ -33,12 +33,12 @@ My research interests are in Natural Language Processing, specifically **Dialog 
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
 Models](https://arxiv.org/pdf/2204.07667.pdf)  
 **Weiyan Shi**, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu 
-arXiv, 2022
+*arXiv, 2022*
 <br>
 
 * [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialog](https://arxiv.org/pdf/2203.07657.pdf)  
 Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu
-arXiv, 2022
+*arXiv, 2022*
 <br>
 
 ## Publications
@@ -108,7 +108,7 @@ Yu Li, Kun Qian, **Weiyan Shi**, Zhou Yu
 
 * [Persuasion for Good: Towards a Personalized Persuasive Dialog System for Social Good](https://arxiv.org/pdf/1906.06725.pdf)  
 Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang, Zhou Yu    
-*ACL 2019,* <span style="color:red">Best Paper Nomination</span>, [code and data](https://gitlab.com/ucdavisnlp/persuasionforgood)
+*ACL 2019, [code and data](https://gitlab.com/ucdavisnlp/persuasionforgood)*, <span style="color:red">Best Paper Nomination</span>
 <br>
 
 * [Unsupervised Dialog Structure Learning](https://arxiv.org/pdf/1904.03736.pdf)  
@@ -121,20 +121,20 @@ Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, S
 *ACL 2018*
 
 ## Teaching
-**Guest Lecturer (on Dialog Systems), Natural Language Processing**
+*Guest Lecturer (on Dialog Systems)*, Natural Language Processing
 Columbia Universty, Spring 2022
 
 
-**Teaching Assistant, Conversational AI Special Topics**
+*Teaching Assistant*, Conversational AI Special Topics
 Columbia University, Spring 2021
 
 ## Service
 <!-- **Conference reviewer**: ACL 2019, ACL 2020, *SEM 2020, ICLR 2021, AAAI 2021, EACL 2021, NAACL 2021, ACL 2021, *SEM 2021, NeurlPS 2021, EMNLP 2021, NLPCC 2021, ICLR 2022, AAAI 2022, ICML 2022, ACL 2022, CHI 2022, SIGDIAL 2022, HCI+NLP workshop at NAACL 2022, ACL Rolling Review -->
-**Publicity Chair**, [The 4th Workshop for Conversational AI](https://sites.google.com/view/4thnlp4convai), ACL 2022
+*Publicity Chair*, [The 4th Workshop for Conversational AI](https://sites.google.com/view/4thnlp4convai), ACL 2022
 
-**Conference reviewer**: ACL, EACL, NAACL, EMNLP, *SEM, ICLR, AAAI, NeurlPS, ICML, CHI, NLPCC, ACL Rolling Review 
+*Conference reviewer*: ACL, EACL, NAACL, EMNLP, *SEM, ICLR, AAAI, NeurlPS, ICML, CHI, NLPCC, ACL Rolling Review 
 
-**Journal reviewer**: ACM Transactions on Human-Robot Interaction, Neurocomputing, ACM Transactions on Information Systems
+*Journal reviewer*: ACM Transactions on Human-Robot Interaction, Neurocomputing, ACM Transactions on Information Systems
 
 
 ## Misc
