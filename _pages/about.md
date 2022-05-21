@@ -16,7 +16,6 @@ Email: ws2634 [at] columbia [dot] edu
 
 ## Research Interests
 My research interests are in Natural Language Processing, specifically **Dialog Systems** 🤖 and the following directions:
-
 * **Strategic and social influence dialog systems**, e.g., persuasive dialogs ([ACL 2019](https://arxiv.org/pdf/1906.06725.pdf), [CHI 2020](https://arxiv.org/pdf/2001.04564.pdf), [EMNLP 2021](https://arxiv.org/pdf/2012.15375.pdf))
 * **Responsible dialog generation**, i.e., addressing repetition, contradiction, other problems in the dialog response  ([EMNLP 2021](https://arxiv.org/pdf/2012.15375.pdf))
 * **Privacy-preserving NLP models** ([NAACL 2021](https://arxiv.org/pdf/2108.12944.pdf), [New Preprint](https://arxiv.org/pdf/2204.07667.pdf)) 
