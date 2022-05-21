@@ -29,18 +29,6 @@ My research interests are in Natural Language Processing, specifically **Dialog 
 * Presidential Fellowship for Studying Abroad, 2013
 
 
-## Preprints
-* [Just Fine-tune Twice: Selective Differential Privacy for Large Language
-Models](https://arxiv.org/pdf/2204.07667.pdf)  
-**Weiyan Shi**, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu 
-*arXiv, 2022*
-<br>
-
-* [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialog](https://arxiv.org/pdf/2203.07657.pdf)  
-Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu
-*arXiv, 2022*
-<br>
-
 ## Publications
 [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2)
 * [Selective Differential Privacy for Language Modeling](https://arxiv.org/pdf/2108.12944.pdf)  
@@ -119,6 +107,19 @@ Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, S
 * [Sentiment Adaptive End-to-End Dialog Systems](https://arxiv.org/pdf/1804.10731.pdf)  
 **Weiyan Shi**, Zhou Yu  
 *ACL 2018*
+
+New Preprints
+
+* [Just Fine-tune Twice: Selective Differential Privacy for Large Language
+Models](https://arxiv.org/pdf/2204.07667.pdf)  
+**Weiyan Shi**, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu 
+*arXiv, 2022*
+<br>
+
+* [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialog](https://arxiv.org/pdf/2203.07657.pdf)  
+Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu
+*arXiv, 2022*
+<br>
 
 ## Teaching
 *Guest Lecturer (on Dialog Systems)*, Natural Language Processing
