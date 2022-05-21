@@ -38,6 +38,11 @@ Models](https://arxiv.org/pdf/2204.07667.pdf)
 arXiv, 2022
 <br>
 
+* [Just Fine-tune Twice: Selective Differential Privacy for Large Language
+Models](https://arxiv.org/pdf/2204.07667.pdf)  
+**Weiyan Shi**, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu 
+arXiv, 2022
+
 * [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialog](https://arxiv.org/pdf/2203.07657.pdf)
 
 Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu
@@ -134,6 +139,7 @@ Columbia University, Spring 2021
 **Publicity Chair**, [The 4th Workshop for Conversational AI](https://sites.google.com/view/4thnlp4convai), ACL 2022
 
 **Conference reviewer**: ACL, EACL, NAACL, EMNLP, *SEM, ICLR, AAAI, NeurlPS, ICML, CHI, NLPCC, ACL Rolling Review 
+
 **Journal reviewer**: ACM Transactions on Human-Robot Interaction, Neurocomputing, ACM Transactions on Information Systems
 
 
