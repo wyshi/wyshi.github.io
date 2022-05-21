@@ -12,7 +12,7 @@ I am Weiyan Shi, a fourth-year PhD student in Computer Science at [*Columbia Uni
 Email: ws2634 [at] columbia [dot] edu
 
 
-[Email](mailto:ws2634@columbia.edu) / [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/Weiyan_Shi_s_CV_May2022.pdf) / [Research Statement](http://wyshi.github.io/files/Rising_start_1page_rs.pdf)
+[Email](mailto:ws2634@columbia.edu) / [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/Weiyan_Shi_s_CV_May2022.pdf) / [Research Statement](http://wyshi.github.io/files/rs_1page.pdf)
 
 ## Research Interests
 My research interests are in Natural Language Processing, specifically **Dialog Systems** 🤖 and the following directions:
