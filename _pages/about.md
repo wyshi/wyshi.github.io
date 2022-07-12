@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Weiyan Shi, a fourth-year PhD student in Computer Science at [*Columbia University*](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/). I interned two summers at [Facebook AI Research](https://ai.facebook.com/) (FAIR) with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/) on strategic dialogs and I enjoyed it a lot. This summer I am interning with [Jason Weston](http://www.thespermwhale.com/jaseweston/) and [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) to incorporate human feedbacks into chatbots.
+I am Weiyan Shi, a fourth-year PhD student in Computer Science at [*Columbia University*](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/). I interned two summers at [Facebook AI Research](https://ai.facebook.com/) (FAIR) with [Mike Lewis](https://ai.facebook.com/people/mike-lewis/) on strategic dialogs and I enjoyed it a lot. This summer I am interning with [Jason Weston](http://www.thespermwhale.com/jaseweston/) and [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) to incorporate human feedback into chatbots.
 
 Email: ws2634 [at] columbia [dot] edu
 
