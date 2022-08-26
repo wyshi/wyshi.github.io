@@ -11,7 +11,7 @@ I am Weiyan Shi, a final-year PhD student in Computer Science at [*Columbia Univ
 
 This summer I am interning with [Jason Weston](http://www.thespermwhale.com/jaseweston/) and [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) to incorporate human feedback into chatbots.
 
-<span style="color:red">I am on the academic job market! </span>.
+<span style="color:red">I am on the academic job market! </span>
 
 
 Email: ws2634@columbia.edu
