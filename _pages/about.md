@@ -11,7 +11,9 @@ I am Weiyan Shi, a final-year PhD student in Computer Science at [*Columbia Univ
 
 This summer I am interning with [Jason Weston](http://www.thespermwhale.com/jaseweston/) and [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) to incorporate human feedback into chatbots.
 
-<span style="color:red">I am on the academic job market! </span>
+This fall, I am co-teaching Dialog System (COMS 6998) with Zhou.
+
+<span style="color:red">I am on the academic job market :)</span>
 
 
 Email: ws2634@columbia.edu
@@ -127,11 +129,15 @@ Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, S
 <br>
 
 ## Teaching
+* *Co-instructor*, Conversational AI Special Topics (COMS 6998)  
+Columbia Universty, Fall 2022  
+<br>
+
 * *Guest Lecturer (on Dialog Systems)*, Natural Language Processing  
 Columbia Universty, Spring 2022  
 <br>
 
-* *Teaching Assistant*, Conversational AI Special Topics    
+* *Teaching Assistant*, Conversational AI Special Topics (COMS 6998)      
 Columbia University, Spring 2021
 
 ## Service
