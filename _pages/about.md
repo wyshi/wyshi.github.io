@@ -9,17 +9,15 @@ redirect_from:
 ---
 I am Weiyan Shi, a final-year PhD student in Computer Science at [*Columbia University*](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing.  
 
-This summer I am interning with [Jason Weston](http://www.thespermwhale.com/jaseweston/) and [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) to incorporate human feedback into chatbots.
-
-This fall, I am co-teaching Dialog System (COMS 6998) with Zhou.
-
-<span style="color:red">I am on the academic job market :)</span>
+This summer I am interning with [Jason Weston](http://www.thespermwhale.com/jaseweston/) and [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) to incorporate human feedback into chatbots. This fall, I am co-teaching Dialog System (COMS 6998) with Zhou.
 
 
 Email: ws2634@columbia.edu
 
 
 [Email](mailto:ws2634@columbia.edu) / [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/Weiyan_Shi_s_CV_May2022.pdf) / [Research Statement](http://wyshi.github.io/files/rs_1page.pdf)
+
+<span style="color:blue">**I am on the academic job market :)**</span>
 
 ## Research Interests
 My research interests are in Natural Language Processing, specifically **Dialog Systems** 🤖 and the following directions:
