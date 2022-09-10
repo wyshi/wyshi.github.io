@@ -9,7 +9,9 @@ redirect_from:
 ---
 I am Weiyan Shi, a final-year PhD student in Computer Science at [*Columbia University*](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing.  
 
-This summer I am interning with [Jason Weston](http://www.thespermwhale.com/jaseweston/) and [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) to incorporate human feedback into chatbots. This fall I am co-teaching Dialog System (COMS 6998) with Zhou.
+This summer I interned with [Jason Weston](http://www.thespermwhale.com/jaseweston/) and [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) on incorporating human feedback into chatbots. 
+
+This fall I am co-teaching Dialog System (COMS 6998) with Zhou at Columbia.
 
 
 Email: ws2634@columbia.edu
@@ -17,19 +19,20 @@ Email: ws2634@columbia.edu
 
 [Email](mailto:ws2634@columbia.edu) / [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/Weiyan_Shi_s_CV_May2022.pdf) / [Research Statement](http://wyshi.github.io/files/rs_1page.pdf)
 
-<span style="color:blue">**I am on the academic job market :)**</span>
+<span style="color:blue">**I am on the academic job market looking for tenure-track positions starting in Fall 2023 :)**</span>
 
 ## Research Interests
 My research interests are in Natural Language Processing, specifically **Dialog Systems** 🤖 and the following directions:
-* **Strategic and social influence dialog systems**, e.g., persuasive dialogs ([ACL 2019](https://arxiv.org/pdf/1906.06725.pdf), [CHI 2020](https://arxiv.org/pdf/2001.04564.pdf), [EMNLP 2021](https://arxiv.org/pdf/2012.15375.pdf))
-* **Responsible dialog generation**, i.e., addressing repetition, contradiction, and other problems in the dialog response  ([EMNLP 2021](https://arxiv.org/pdf/2012.15375.pdf))
-* **Privacy-preserving NLP models** ([NAACL 2021](https://arxiv.org/pdf/2108.12944.pdf), [New Preprint](https://arxiv.org/pdf/2204.07667.pdf)) 
+* **Task-oriented dialog systems:** [\[ACL 2018\]](https://arxiv.org/pdf/1804.10731.pdf), [\[NAACL 2019\]](https://arxiv.org/pdf/1904.03736.pdf), [\[EMNLP 2019\]](https://arxiv.org/pdf/1909.01388.pdf), [\[EMNLP 2020\]](https://arxiv.org/pdf/2009.08552.pdf), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40.pdf)
+* **Strategic and social influence dialog systems for social good (e.g., persuasive dialogs):** [\[ACL 2019\]](https://arxiv.org/pdf/1906.06725.pdf), [\[CHI 2020\]](https://arxiv.org/pdf/2001.04564.pdf), [\[AAAI 2020\]](https://arxiv.org/pdf/1911.10742.pdf), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431.pdf), [\[EMNLP 2020b\]](https://arxiv.org/pdf/2009.14306.pdf), [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf), [\[New Preprint\]](https://arxiv.org/pdf/2203.07657.pdf)
+* **Accountable dialog generation:** ([\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf))
+* **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://arxiv.org/pdf/2108.12944.pdf), [\[New Preprint\]](https://arxiv.org/pdf/2204.07667.pdf)
 
 ## Awards
 * Best Paper Nomination, ACL 2019  
-* Dean's Distinguished PhD Fellowship (5-year tuition and living expense), UC, Davis, 2018
-* Department Citation in the Statistics Master's Program (top 1), UC, Berkeley, 2016
-* MA Speaker at Department Commencement (top 1), UC, Berkeley, 2016
+* Dean's Distinguished PhD Fellowship (5-year tuition and living expense)
+* Department Citation (top 1), UC, Berkeley, 2016
+* Speaker at Department Commencement (top 1), UC, Berkeley, 2016
 * National Scholarship, 2014
 * Presidential Fellowship for Studying Abroad, 2013
 
@@ -138,6 +141,8 @@ Columbia University, Spring 2021
 
 ## Service
 <!-- **Conference reviewer**: ACL 2019, ACL 2020, *SEM 2020, ICLR 2021, AAAI 2021, EACL 2021, NAACL 2021, ACL 2021, *SEM 2021, NeurlPS 2021, EMNLP 2021, NLPCC 2021, ICLR 2022, AAAI 2022, ICML 2022, ACL 2022, CHI 2022, SIGDIAL 2022, HCI+NLP workshop at NAACL 2022, ACL Rolling Review -->
+* *Area Chair*, [Women in Machine Learning 2022](https://sites.google.com/view/wiml2022/home?authuser=0), NeurIPS 2022
+
 * *Publicity Chair*, [The 4th Workshop for Conversational AI](https://sites.google.com/view/4thnlp4convai), ACL 2022
 
 * *Conference reviewer*: ACL, EACL, NAACL, EMNLP, *SEM, ICLR, AAAI, NeurlPS, ICML, CHI, NLPCC, ACL Rolling Review 
@@ -146,4 +151,4 @@ Columbia University, Spring 2021
 
 
 ## Misc
-Previously, I obtained my bachelor's degree in Mathematics from *Renmin University of China* and my master's degree in Statistics from *University of California, Berkeley*. After that I worked in the bay area as a data scientist for two years before going back to school.
+Previously, I obtained my bachelor's degree in Mathematics from *Renmin University of China* and my master's degree in Statistics from *University of California, Berkeley*. After that I worked in the bay area as a data scientist for two years before coming back to school.
