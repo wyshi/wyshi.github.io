@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am Weiyan Shi, a final-year PhD student in Computer Science at [*Columbia University*](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing.  
 
-This summer I interned with [Jason Weston](http://www.thespermwhale.com/jaseweston/) and [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) on incorporating human feedback into chatbots. 
+This summer I interned with [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) and [Jason Weston](http://www.thespermwhale.com/jaseweston/) on incorporating human feedback into chatbots. 
 
 This fall I am co-teaching Dialog System (COMS 6998) with Zhou at Columbia.
 
