@@ -1,42 +1,58 @@
 ---
 permalink: /
-title: "Welcome :)"
+title: "Weiyan Shi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am Weiyan Shi, a final-year PhD student in Computer Science at [*Columbia University*](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing.  
+Welcome! I am a final-year PhD student in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing. Previously, I completed my master's degree in Statistics from [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). 
 
-This summer I interned with [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) and [Jason Weston](http://www.thespermwhale.com/jaseweston/) on incorporating human feedback into chatbots. 
 
-This fall I am co-teaching Dialog System (COMS 6998) with Zhou at Columbia.
+This fall I am co-teaching Dialogue System (COMS 6998) with Zhou at Columbia.
+
+<span style="color:blue">**I am on the academic job market looking for tenure-track positions starting in Fall 2023 :)**</span>
 
 
 Email: ws2634@columbia.edu
 
 
-[Email](mailto:ws2634@columbia.edu) / [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/Weiyan_Shi_s_CV_May2022.pdf) / [Research Statement](http://wyshi.github.io/files/rs_1page.pdf)
+[Email](mailto:ws2634@columbia.edu) / [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/CV.pdf) / [Research Statement](http://wyshi.github.io/files/rs_1page.pdf)
 
-<span style="color:red">**I am on the academic job market looking for tenure-track positions starting in Fall 2023 :)**</span>
+[Research Interests](#research-interests) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Service](#service) / [Miscellaneous](#miscellaneous)
+
 
 ## Research Interests
-My research interests are in Natural Language Processing, specifically **Dialog Systems** 🤖 and the following directions:
-* **Task-oriented dialog systems:** [\[ACL 2018\]](https://arxiv.org/pdf/1804.10731.pdf), [\[NAACL 2019\]](https://arxiv.org/pdf/1904.03736.pdf), [\[EMNLP 2019\]](https://arxiv.org/pdf/1909.01388.pdf), [\[EMNLP 2020\]](https://arxiv.org/pdf/2009.08552.pdf), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40.pdf)
-* **Strategic and social influence dialog systems for social good (e.g., persuasive dialogs):** [\[ACL 2019\]](https://arxiv.org/pdf/1906.06725.pdf), [\[CHI 2020\]](https://arxiv.org/pdf/2001.04564.pdf), [\[AAAI 2020\]](https://arxiv.org/pdf/1911.10742.pdf), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431.pdf), [\[EMNLP 2020b\]](https://arxiv.org/pdf/2009.14306.pdf), [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf), [\[New Preprint\]](https://arxiv.org/pdf/2203.07657.pdf)
-* **Accountable dialog generation:** [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf)
+My research interests are in Natural Language Processing, especially **Dialogue Systems** 🤖 and the following directions:
+* **Task-oriented dialogue systems:** [\[ACL 2018\]](https://arxiv.org/pdf/1804.10731.pdf), [\[NAACL 2019\]](https://arxiv.org/pdf/1904.03736.pdf), [\[EMNLP 2019\]](https://arxiv.org/pdf/1909.01388.pdf), [\[EMNLP 2020\]](https://arxiv.org/pdf/2009.08552.pdf), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40.pdf)
+* **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://arxiv.org/pdf/1906.06725.pdf), [\[CHI 2020\]](https://arxiv.org/pdf/2001.04564.pdf), [\[AAAI 2020\]](https://arxiv.org/pdf/1911.10742.pdf), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431.pdf), [\[EMNLP 2020b\]](https://arxiv.org/pdf/2009.14306.pdf), [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf), [\[New Preprint\]](https://arxiv.org/pdf/2203.07657.pdf)
+* **Accountable dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf)
 * **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://arxiv.org/pdf/2108.12944.pdf), [\[New Preprint\]](https://arxiv.org/pdf/2204.07667.pdf)
+
+## Updates
+**Sep 2022**: I am co-teaching Dialogue System (COMS 6998) with Zhou at Columbia.
+
+**Jun - Sep 2022**: This summer I interned with [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) and [Jason Weston](http://www.thespermwhale.com/jaseweston/) on incorporating human feedback into chatbots. 
+
+**Jun - Dec 2021**: Finished my internship with [Mike Lewis](https://scholar.google.co.uk/citations?user=SnQnQicAAAAJ&hl=en) on zero-shot dialogue nonsense detection.
+
+**Jun - Dec 2020**: Finished my internship with [Mike Lewis](https://scholar.google.co.uk/citations?user=SnQnQicAAAAJ&hl=en) on strategic dialogues. 
+
+
 
 ## Awards
 * Best Paper Nomination, ACL 2019  
-* Dean's Distinguished PhD Fellowship (5-year tuition and living expense)
+* Dean's Distinguished PhD Fellowship
 * Department Citation (top 1), UC, Berkeley, 2016
 * Speaker at Department Commencement (top 1), UC, Berkeley, 2016
 * National Scholarship, 2014
 * Presidential Fellowship for Studying Abroad, 2013
 
-## Preprints
+## Publications
+[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2)
+
+### Preprints
 
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
 Models](https://arxiv.org/pdf/2204.07667.pdf)  
@@ -44,19 +60,19 @@ Models](https://arxiv.org/pdf/2204.07667.pdf)
 *arXiv, 2022*
 <br>
 
-* [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialog](https://arxiv.org/pdf/2203.07657.pdf)  
+* [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue](https://arxiv.org/pdf/2203.07657.pdf)  
 Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu  
 *arXiv, 2022*
 <br>
 
-## Publications
-[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2)
+### 2022
+
 * [Selective Differential Privacy for Language Modeling](https://arxiv.org/pdf/2108.12944.pdf)  
 **Weiyan Shi**, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu  
 *NAACL 2022*, [code and data](https://github.com/wyshi/lm_privacy)
 <br>
 
-<!-- * [What Does the Bot Do? Detecting Repetition and Contradiction in Dialogs by Asking and Answering Questions]
+<!-- * [What Does the Bot Do? Detecting Repetition and Contradiction in Dialogues by Asking and Answering Questions]
 **Weiyan Shi**, Mary Williamson, Jason Weston, Mike Lewis, Zhou Yu
 In Submission -->
 
@@ -64,32 +80,35 @@ In Submission -->
 Liang Qiu, Yizhou Zhao, Yuan Liang, Pan Lu, **Weiyan Shi**, Zhou Yu, Song-Chun Zhu  
 *In Submission*
 
-* [DEUX: An Attribute-Guided Framework for Sociable Recommendation Dialog Systems](https://arxiv.org/pdf/2105.00825.pdf)  
+* [DEUX: An Attribute-Guided Framework for Sociable Recommendation Dialogue Systems](https://arxiv.org/pdf/2105.00825.pdf)  
 Yu Li, Shirley Anugrah Hayati, **Weiyan Shi**, Zhou Yu  
 *In Submission* -->
 
+### 2021
 
-* [Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogs via Reinforcement Learning and Human Demonstration](https://arxiv.org/pdf/2012.15375.pdf)  
+* [Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogues via Reinforcement Learning and Human Demonstration](https://arxiv.org/pdf/2012.15375.pdf)  
 **Weiyan Shi**, Yu Li, Saurav Sahay, Zhou Yu  
 *EMNLP 2021 Findings* 
 <br>
 
-* [LEGOEval: An Open-Source Toolkit for Dialog System Evaluation via Crowdsourcing](https://arxiv.org/pdf/2105.01992.pdf)  
+* [LEGOEval: An Open-Source Toolkit for Dialogue System Evaluation via Crowdsourcing](https://arxiv.org/pdf/2105.01992.pdf)  
 Yu Li, Josh Arnold, Feifan Yan, **Weiyan Shi**, Zhou Yu  
 *ACL 2021 Demo*
 <br>
 
-* [PRAL: A tailored pre-training model for task-oriented dialog generation](https://aclanthology.org/2021.acl-short.40.pdf)  
+* [PRAL: A tailored pre-training model for task-oriented dialogue generation](https://aclanthology.org/2021.acl-short.40.pdf)  
 Jing Gu, Qingyang Wu, Chongruo Wu, **Weiyan Shi**, Zhou Yu  
 *ACL 2021*
 <br>
 
-* [INSPIRED: Toward Sociable Recommendation Dialog Systems](https://arxiv.org/pdf/2009.14306.pdf)  
+### 2020
+
+* [INSPIRED: Toward Sociable Recommendation Dialogue Systems](https://arxiv.org/pdf/2009.14306.pdf)  
 Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, **Weiyan Shi**, Zhou Yu  
 *EMNLP 2020* 
 <br>
 
-* [Structured Attention for Unsupervised Dialog Structure Induction](https://arxiv.org/pdf/2009.08552.pdf)  
+* [Structured Attention for Unsupervised Dialogue Structure Induction](https://arxiv.org/pdf/2009.08552.pdf)  
 Liang Qiu, Yizhou Zhao, **Weiyan Shi**, Yuan Liang, Feng Shi, Tao Yuan, Zhou Yu, Song-Chun Zhu  
 *EMNLP 2020* 
 <br>
@@ -99,32 +118,35 @@ Youzhi Tian, **Weiyan Shi**, Chen Li, Zhou Yu
 *EMNLP 2020 Findings*
 <br>
 
-* [Effects of Persuasive Dialogs: Testing Bot Identities and Inquiry Strategies](https://arxiv.org/pdf/2001.04564.pdf)  
+* [Effects of Persuasive Dialogues: Testing Bot Identities and Inquiry Strategies](https://arxiv.org/pdf/2001.04564.pdf)  
 **Weiyan Shi**, Xuewei Wang,Yoo Jung Oh, Jingwen Zhang, Saurav Sahay, Zhou Yu    
 *CHI 2020*
 <br>
 
-* [End-to-End Trainable Non-Collaborative Dialog System](https://arxiv.org/pdf/1911.10742.pdf)  
+* [End-to-End Trainable Non-Collaborative Dialogue System](https://arxiv.org/pdf/1911.10742.pdf)  
 Yu Li, Kun Qian, **Weiyan Shi**, Zhou Yu    
 *AAAI 2020*
 <br>
 
-* [How to Build User Simulators to Train RL-based Dialog Systems](https://arxiv.org/pdf/1909.01388.pdf)  
+### 2019
+* [How to Build User Simulators to Train RL-based Dialogue Systems](https://arxiv.org/pdf/1909.01388.pdf)  
 **Weiyan Shi\***, Kun Qian* (equal contribution), Xuewei Wang, Zhou Yu    
 *EMNLP 2019* 
 <br>
 
-* [Persuasion for Good: Towards a Personalized Persuasive Dialog System for Social Good](https://arxiv.org/pdf/1906.06725.pdf)  
+* [Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good](https://arxiv.org/pdf/1906.06725.pdf)  
 Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang, Zhou Yu    
 *ACL 2019, [code and data](https://gitlab.com/ucdavisnlp/persuasionforgood)*, <span style="color:red">Best Paper Nomination</span>
 <br>
 
-* [Unsupervised Dialog Structure Learning](https://arxiv.org/pdf/1904.03736.pdf)  
+* [Unsupervised Dialogue Structure Learning](https://arxiv.org/pdf/1904.03736.pdf)  
 **Weiyan Shi**, Tiancheng Zhao, Zhou Yu  
 *NAACL 2019*
 <br>
 
-* [Sentiment Adaptive End-to-End Dialog Systems](https://arxiv.org/pdf/1804.10731.pdf)  
+### 2018
+
+* [Sentiment Adaptive End-to-End Dialogue Systems](https://arxiv.org/pdf/1804.10731.pdf)  
 **Weiyan Shi**, Zhou Yu  
 *ACL 2018*
 <br>
@@ -133,7 +155,7 @@ Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, S
 * *Co-instructor*, Conversational AI Special Topics (COMS 6998)  
 Columbia Universty, Fall 2022  
 <br>
-* *Guest Lecturer (on Dialog Systems)*, Natural Language Processing  
+* *Guest Lecturer (on Dialogue Systems)*, Natural Language Processing  
 Columbia Universty, Spring 2022  
 <br>
 * *Teaching Assistant*, Conversational AI Special Topics (COMS 6998)      
@@ -150,5 +172,5 @@ Columbia University, Spring 2021
 * *Journal reviewer*: ACM Transactions on Human-Robot Interaction, Neurocomputing, ACM Transactions on Information Systems
 
 
-## Misc
-Previously, I obtained my bachelor's degree in Mathematics from *Renmin University of China* and my master's degree in Statistics from *University of California, Berkeley*. After that I worked in the bay area as a data scientist for two years before coming back to school.
+## Miscellaneous
+I worked in the SF bay area as a full-time data scientist for two years before starting my PhD.
