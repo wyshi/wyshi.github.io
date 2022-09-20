@@ -18,7 +18,7 @@ This fall I am co-teaching Dialogue System (COMS 6998) with Zhou at Columbia.
 Email: ws2634@columbia.edu
 
 
-[Email](mailto:ws2634@columbia.edu) / [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/CV.pdf) / [Research Statement](http://wyshi.github.io/files/rs_1page.pdf)
+[Email](mailto:ws2634@columbia.edu) / [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/CV.pdf) / [Research Statement](http://wyshi.github.io/files/research_statement_1page.pdf)
 
 [Research Interests](#research-interests) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Service](#service) / [Miscellaneous](#miscellaneous)
 
