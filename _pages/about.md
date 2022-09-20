@@ -19,7 +19,7 @@ Email: ws2634@columbia.edu
 
 [Email](mailto:ws2634@columbia.edu) / [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/Weiyan_Shi_s_CV_May2022.pdf) / [Research Statement](http://wyshi.github.io/files/rs_1page.pdf)
 
-<span style="color:blue">**I am on the academic job market looking for tenure-track positions starting in Fall 2023 :)**</span>
+<span style="color:red">**I am on the academic job market looking for tenure-track positions starting in Fall 2023 :)**</span>
 
 ## Research Interests
 My research interests are in Natural Language Processing, specifically **Dialog Systems** 🤖 and the following directions:
