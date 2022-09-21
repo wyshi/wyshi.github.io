@@ -15,12 +15,12 @@ This fall I am co-teaching Dialogue System (COMS 6998) with Zhou at Columbia.
 <span style="color:blue">**I am on the academic job market looking for tenure-track positions starting in Fall 2023 :)**</span>
 
 
-Email: ws2634@columbia.edu
+Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
 
 
-[Email](mailto:ws2634@columbia.edu) / [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/CV.pdf) / [Research Statement](http://wyshi.github.io/files/research_statement_1page.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/CV.pdf) / [Research Statement](http://wyshi.github.io/files/research_statement_1page.pdf)
 
-[Research Interests](#research-interests) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Service](#service) / [Miscellaneous](#miscellaneous)
+[Research Interests](#research-interests) / [Updates](#updates) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Service](#service) / [Miscellaneous](#miscellaneous)
 
 
 ## Research Interests
@@ -29,6 +29,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 * **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://arxiv.org/pdf/1906.06725.pdf), [\[CHI 2020\]](https://arxiv.org/pdf/2001.04564.pdf), [\[AAAI 2020\]](https://arxiv.org/pdf/1911.10742.pdf), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431.pdf), [\[EMNLP 2020b\]](https://arxiv.org/pdf/2009.14306.pdf), [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf), [\[New Preprint\]](https://arxiv.org/pdf/2203.07657.pdf)
 * **Accountable dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf)
 * **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://arxiv.org/pdf/2108.12944.pdf), [\[New Preprint\]](https://arxiv.org/pdf/2204.07667.pdf)
+
 
 ## Updates
 **Sep 2022**: I am co-teaching Dialogue System (COMS 6998) with Zhou at Columbia.
