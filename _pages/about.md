@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a final-year PhD student in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing. Previously, I completed my master's degree in Statistics from [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). 
-
+Welcome! I am a fifth-year PhD student in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing. Previously, I completed my master's degree in Statistics from [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). I have worked in the SF bay area as a full-time data scientist on customer service chatbots for two years before starting my PhD.
 
 This fall I am co-teaching Dialogue System (COMS 6998) with Zhou at Columbia.
 
@@ -173,5 +172,3 @@ Columbia University, Spring 2021
 * *Journal reviewer*: ACM Transactions on Human-Robot Interaction, Neurocomputing, ACM Transactions on Information Systems
 
 
-## Miscellaneous
-I worked in the SF bay area as a full-time data scientist for two years before starting my PhD.
