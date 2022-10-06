@@ -11,7 +11,7 @@ Welcome! I am a fifth-year PhD student in Computer Science at [Columbia Universi
 
 This fall I am co-teaching Dialogue System (COMS 6998) with Zhou at Columbia.
 
-<span style="color:blue">**I am on the academic job market looking for tenure-track positions starting in Fall 2023 :)**</span>
+<span style="color:blue">**I am on the academic job market looking for tenure-track positions :)**</span>
 
 
 Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
