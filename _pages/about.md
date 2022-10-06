@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! I am a fifth-year PhD student in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing. Previously, I completed my master's degree in Statistics from [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). I have worked in the SF bay area as a full-time data scientist on customer service chatbots for two years before starting my PhD.
 
-This fall I am co-teaching Dialogue System (COMS 6998) with Zhou at Columbia.
+This fall I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
 
 <span style="color:blue">**I am on the academic job market looking for tenure-track positions :)**</span>
 
@@ -31,13 +31,13 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 
 
 ## Updates
-**Sep 2022**: I am co-teaching Dialogue System (COMS 6998) with Zhou at Columbia.
+**Sep 2022**: I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
 
 **Jun - Sep 2022**: This summer I interned with [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) and [Jason Weston](http://www.thespermwhale.com/jaseweston/) on incorporating human feedback into chatbots. 
 
 **Jun - Dec 2021**: Finished my internship with [Mike Lewis](https://scholar.google.co.uk/citations?user=SnQnQicAAAAJ&hl=en) on zero-shot dialogue nonsense detection.
 
-**Jun - Dec 2020**: Finished my internship with [Mike Lewis](https://scholar.google.co.uk/citations?user=SnQnQicAAAAJ&hl=en) on strategic dialogues. 
+**Jun - Dec 2020**: Finished my internship with [Mike Lewis](https://scholar.google.co.uk/citations?user=SnQnQicAAAAJ&hl=en) on strategic dialogue. 
 
 
 
@@ -123,7 +123,7 @@ Youzhi Tian, **Weiyan Shi**, Chen Li, Zhou Yu
 *CHI 2020*
 <br>
 
-* [End-to-End Trainable Non-Collaborative Dialogue System](https://arxiv.org/pdf/1911.10742.pdf)  
+* [End-to-End Trainable Non-Collaborative Dialogue Systems](https://arxiv.org/pdf/1911.10742.pdf)  
 Yu Li, Kun Qian, **Weiyan Shi**, Zhou Yu    
 *AAAI 2020*
 <br>
