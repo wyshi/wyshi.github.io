@@ -60,7 +60,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
 Models](https://arxiv.org/pdf/2204.07667.pdf)  
 **Weiyan Shi**, Ryan Shea, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu  
-*EMNLP, 2022*
+*EMNLP, 2022*, [code and data coming soon]
 <br>
 
 * [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue](https://arxiv.org/pdf/2203.07657.pdf)  
