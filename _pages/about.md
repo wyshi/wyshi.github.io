@@ -52,20 +52,21 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 ## Publications
 [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2)
 
-### Preprints
+<!-- ### Preprints -->
 
+
+
+### 2022
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
 Models](https://arxiv.org/pdf/2204.07667.pdf)  
-**Weiyan Shi**, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu  
-*arXiv, 2022*
+**Weiyan Shi**, Ryan Shea, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu  
+*EMNLP, 2022*
 <br>
 
 * [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue](https://arxiv.org/pdf/2203.07657.pdf)  
 Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu  
-*arXiv, 2022*
+*AACL, 2022*
 <br>
-
-### 2022
 
 * [Selective Differential Privacy for Language Modeling](https://arxiv.org/pdf/2108.12944.pdf)  
 **Weiyan Shi**, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu  
