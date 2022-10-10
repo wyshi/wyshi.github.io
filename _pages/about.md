@@ -31,6 +31,8 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 
 
 ## Updates
+**Oct 2022**: I am named as [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)! Thanks UMD :) 
+
 **Sep 2022**: I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
 
 **Jun - Sep 2022**: This summer I interned with [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) and [Jason Weston](http://www.thespermwhale.com/jaseweston/) on incorporating human feedback into chatbots. 
@@ -42,6 +44,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 
 
 ## Awards
+* [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)
 * Best Paper Nomination, ACL 2019  
 * Dean's Distinguished PhD Fellowship
 * Department Citation (top 1), UC Berkeley, 2016
