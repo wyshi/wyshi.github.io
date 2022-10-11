@@ -31,7 +31,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 
 
 ## Updates
-**Oct 2022**: I am named as [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)! Thanks UMD :) 
+**Oct 2022**: I am excited to be named as [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)! Thanks UMD :) 
 
 **Sep 2022**: I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
 
