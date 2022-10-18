@@ -26,7 +26,8 @@ Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](
 My research interests are in Natural Language Processing, especially **Dialogue Systems** 🤖 and the following directions:
 * **Task-oriented dialogue systems:** [\[ACL 2018\]](https://arxiv.org/pdf/1804.10731.pdf), [\[NAACL 2019\]](https://arxiv.org/pdf/1904.03736.pdf), [\[EMNLP 2019\]](https://arxiv.org/pdf/1909.01388.pdf), [\[EMNLP 2020\]](https://arxiv.org/pdf/2009.08552.pdf), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40.pdf)
 * **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://arxiv.org/pdf/1906.06725.pdf), [\[CHI 2020\]](https://arxiv.org/pdf/2001.04564.pdf), [\[AAAI 2020\]](https://arxiv.org/pdf/1911.10742.pdf), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431.pdf), [\[EMNLP 2020b\]](https://arxiv.org/pdf/2009.14306.pdf), [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf), [\[AACL 2022\]](https://arxiv.org/pdf/2203.07657.pdf)
-* **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf) [\[Preprint\]](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing)
+* **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf) 
+<!-- * [\[Preprint\]](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing) -->
 * **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://arxiv.org/pdf/2108.12944.pdf), [\[EMNLP 2022\]](https://arxiv.org/pdf/2204.07667.pdf)
 
 [Research Statement](http://wyshi.github.io/files/materials/research.pdf)
@@ -72,10 +73,10 @@ Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sa
 *AACL 2022*
 <br>
 
-* [AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing)  
+<!-- * [AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing)  
 Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis  
 *Preprint*, 2022
-<br>
+<br> -->
 
 * [Selective Differential Privacy for Language Modeling](https://arxiv.org/pdf/2108.12944.pdf)  
 **Weiyan Shi**, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu  
