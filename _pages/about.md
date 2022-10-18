@@ -17,21 +17,24 @@ This fall I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at C
 Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
 
 
-[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research.pdf) / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf)
 
-Links: [Research Interests](#research-interests) / [Updates](#updates) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Service](#service) / [Miscellaneous](#miscellaneous)
+Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Service](#service) / [Miscellaneous](#miscellaneous)
 
 
-## Research Interests
+## Research Overview
 My research interests are in Natural Language Processing, especially **Dialogue Systems** 🤖 and the following directions:
 * **Task-oriented dialogue systems:** [\[ACL 2018\]](https://arxiv.org/pdf/1804.10731.pdf), [\[NAACL 2019\]](https://arxiv.org/pdf/1904.03736.pdf), [\[EMNLP 2019\]](https://arxiv.org/pdf/1909.01388.pdf), [\[EMNLP 2020\]](https://arxiv.org/pdf/2009.08552.pdf), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40.pdf)
 * **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://arxiv.org/pdf/1906.06725.pdf), [\[CHI 2020\]](https://arxiv.org/pdf/2001.04564.pdf), [\[AAAI 2020\]](https://arxiv.org/pdf/1911.10742.pdf), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431.pdf), [\[EMNLP 2020b\]](https://arxiv.org/pdf/2009.14306.pdf), [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf), [\[AACL 2022\]](https://arxiv.org/pdf/2203.07657.pdf)
 * **Accountable dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf)
 * **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://arxiv.org/pdf/2108.12944.pdf), [\[EMNLP 2022\]](https://arxiv.org/pdf/2204.07667.pdf)
 
+[Research Statement](http://wyshi.github.io/files/materials/research.pdf)
 
 ## Updates
 **Oct 2022**: I am excited to be named as [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)! Thanks UMD :) 
+
+**Oct 2022**: Our paper on [privacy-preserving Transformer-based models](https://arxiv.org/pdf/2204.07667.pdf) is accepted to EMNLP 2022.
 
 **Sep 2022**: I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
 
@@ -156,6 +159,7 @@ Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, S
 <br>
 
 ## Teaching
+[Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf)
 * *Co-instructor*, Conversational AI Special Topics (COMS 6998)  
 Columbia Universty, Fall 2022  
 <br>
