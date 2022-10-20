@@ -17,7 +17,7 @@ This fall I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at C
 Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
 
 
-[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research.pdf) / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research_public.pdf) / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf)
 
 Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Service](#service) / [Miscellaneous](#miscellaneous)
 
@@ -30,7 +30,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 <!-- * [\[Preprint\]](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing) -->
 * **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://arxiv.org/pdf/2108.12944.pdf), [\[EMNLP 2022\]](https://arxiv.org/pdf/2204.07667.pdf)
 
-[Research Statement](http://wyshi.github.io/files/materials/research.pdf)
+[Research Statement](http://wyshi.github.io/files/materials/research_public.pdf)
 
 ## Updates
 **Oct 2022**: I am excited to be named as [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)! Thanks UMD :) 
