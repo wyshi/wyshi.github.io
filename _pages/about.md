@@ -49,7 +49,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 
 ## Awards
 * [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)
-* Best Paper Nomination, ACL 2019  
+* [Best Paper Nomination, ACL 2019]() 
 * Dean's Distinguished PhD Fellowship
 * Department Citation (top 1), UC Berkeley, 2016
 * Speaker at Department Commencement (top 1), UC Berkeley, 2016
@@ -63,12 +63,12 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 <!-- ### Preprints -->
 ### 2022
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
-Models](https://arxiv.org/pdf/2204.07667.pdf)  
+Models](https://arxiv.org/abs/2204.07667)  
 **Weiyan Shi**, Ryan Shea, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu  
 *EMNLP 2022*, [code and data](https://github.com/wyshi/sdp_transformers)
 <br>
 
-* [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue](https://arxiv.org/pdf/2203.07657.pdf)  
+* [Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue](https://arxiv.org/abs/2203.07657)  
 Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou Yu  
 *AACL 2022*
 <br>
@@ -78,7 +78,7 @@ Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou
 *Preprint*, 2022
 <br> -->
 
-* [Selective Differential Privacy for Language Modeling](https://arxiv.org/pdf/2108.12944.pdf)  
+* [Selective Differential Privacy for Language Modeling](https://aclanthology.org/2022.naacl-main.205)  
 **Weiyan Shi**, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu  
 *NAACL 2022*, [code and data](https://github.com/wyshi/lm_privacy)
 <br>
@@ -97,67 +97,67 @@ Yu Li, Shirley Anugrah Hayati, **Weiyan Shi**, Zhou Yu
 
 ### 2021
 
-* [Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogues via Reinforcement Learning and Human Demonstration](https://arxiv.org/pdf/2012.15375.pdf)  
+* [Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogues via Reinforcement Learning and Human Demonstration](https://arxiv.org/abs/2012.15375)  
 **Weiyan Shi**, Yu Li, Saurav Sahay, Zhou Yu  
 *EMNLP 2021 Findings* 
 <br>
 
-* [LEGOEval: An Open-Source Toolkit for Dialogue System Evaluation via Crowdsourcing](https://arxiv.org/pdf/2105.01992.pdf)  
+* [LEGOEval: An Open-Source Toolkit for Dialogue System Evaluation via Crowdsourcing](https://aclanthology.org/2021.acl-demo.38)  
 Yu Li, Josh Arnold, Feifan Yan, **Weiyan Shi**, Zhou Yu  
 *ACL 2021 Demo*
 <br>
 
-* [PRAL: A tailored pre-training model for task-oriented dialogue generation](https://aclanthology.org/2021.acl-short.40.pdf)  
+* [PRAL: A tailored pre-training model for task-oriented dialogue generation](https://aclanthology.org/2021.acl-short.40)  
 Jing Gu, Qingyang Wu, Chongruo Wu, **Weiyan Shi**, Zhou Yu  
 *ACL 2021*
 <br>
 
 ### 2020
 
-* [INSPIRED: Toward Sociable Recommendation Dialogue Systems](https://arxiv.org/pdf/2009.14306.pdf)  
+* [INSPIRED: Toward Sociable Recommendation Dialogue Systems](https://aclanthology.org/2020.emnlp-main.654)  
 Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, **Weiyan Shi**, Zhou Yu  
 *EMNLP 2020* 
 <br>
 
-* [Structured Attention for Unsupervised Dialogue Structure Induction](https://arxiv.org/pdf/2009.08552.pdf)  
+* [Structured Attention for Unsupervised Dialogue Structure Induction](https://aclanthology.org/2020.emnlp-main.148)  
 Liang Qiu, Yizhou Zhao, **Weiyan Shi**, Yuan Liang, Feng Shi, Tao Yuan, Zhou Yu, Song-Chun Zhu  
 *EMNLP 2020* 
 <br>
 
-* [Understanding User Resistance Strategies in Persuasive Conversations](https://aclanthology.org/2020.findings-emnlp.431.pdf)  
+* [Understanding User Resistance Strategies in Persuasive Conversations](https://aclanthology.org/2020.findings-emnlp.431)  
 Youzhi Tian, **Weiyan Shi**, Chen Li, Zhou Yu     
 *EMNLP 2020 Findings*
 <br>
 
-* [Effects of Persuasive Dialogues: Testing Bot Identities and Inquiry Strategies](https://arxiv.org/pdf/2001.04564.pdf)  
+* [Effects of Persuasive Dialogues: Testing Bot Identities and Inquiry Strategies](https://dl.acm.org/doi/10.1145/3313831.3376843)  
 **Weiyan Shi**, Xuewei Wang,Yoo Jung Oh, Jingwen Zhang, Saurav Sahay, Zhou Yu    
 *CHI 2020*
 <br>
 
-* [End-to-End Trainable Non-Collaborative Dialogue Systems](https://arxiv.org/pdf/1911.10742.pdf)  
+* [End-to-End Trainable Non-Collaborative Dialogue Systems](https://ojs.aaai.org/index.php/AAAI/article/view/6345)  
 Yu Li, Kun Qian, **Weiyan Shi**, Zhou Yu    
 *AAAI 2020*
 <br>
 
 ### 2019
-* [How to Build User Simulators to Train RL-based Dialogue Systems](https://arxiv.org/pdf/1909.01388.pdf)  
+* [How to Build User Simulators to Train RL-based Dialogue Systems](https://aclanthology.org/D19-1206)  
 **Weiyan Shi\***, Kun Qian* (equal contribution), Xuewei Wang, Zhou Yu    
 *EMNLP 2019* 
 <br>
 
-* [Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good](https://arxiv.org/pdf/1906.06725.pdf)  
+* [Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good](https://aclanthology.org/P19-1566/)  
 Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang, Zhou Yu    
 *ACL 2019, [code and data](https://gitlab.com/ucdavisnlp/persuasionforgood)*, <span style="color:red">Best Paper Nomination</span>
 <br>
 
-* [Unsupervised Dialogue Structure Learning](https://arxiv.org/pdf/1904.03736.pdf)  
+* [Unsupervised Dialogue Structure Learning](https://aclanthology.org/N19-1178)  
 **Weiyan Shi**, Tiancheng Zhao, Zhou Yu  
 *NAACL 2019*
 <br>
 
 ### 2018
 
-* [Sentiment Adaptive End-to-End Dialogue Systems](https://arxiv.org/pdf/1804.10731.pdf)  
+* [Sentiment Adaptive End-to-End Dialogue Systems](https://aclanthology.org/P18-1140)  
 **Weiyan Shi**, Zhou Yu  
 *ACL 2018*
 <br>
