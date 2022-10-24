@@ -49,7 +49,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 
 ## Awards
 * [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)
-* [Best Paper Nomination, ACL 2019]() 
+* [Best Paper Nomination, ACL 2019](https://aclanthology.org/P19-1566/) 
 * Dean's Distinguished PhD Fellowship
 * Department Citation (top 1), UC Berkeley, 2016
 * Speaker at Department Commencement (top 1), UC Berkeley, 2016
