@@ -24,18 +24,18 @@ Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](
 
 ## Research Overview
 My research interests are in Natural Language Processing, especially **Dialogue Systems** 🤖 and the following directions:
-* **Task-oriented dialogue systems:** [\[ACL 2018\]](https://arxiv.org/pdf/1804.10731.pdf), [\[NAACL 2019\]](https://arxiv.org/pdf/1904.03736.pdf), [\[EMNLP 2019\]](https://arxiv.org/pdf/1909.01388.pdf), [\[EMNLP 2020\]](https://arxiv.org/pdf/2009.08552.pdf), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40.pdf)
-* **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://arxiv.org/pdf/1906.06725.pdf), [\[CHI 2020\]](https://arxiv.org/pdf/2001.04564.pdf), [\[AAAI 2020\]](https://arxiv.org/pdf/1911.10742.pdf), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431.pdf), [\[EMNLP 2020b\]](https://arxiv.org/pdf/2009.14306.pdf), [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf), [\[AACL 2022\]](https://arxiv.org/pdf/2203.07657.pdf)
-* **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/pdf/2012.15375.pdf) 
+* **Task-oriented dialogue systems:** [\[ACL 2018\]](https://aclanthology.org/P18-1140), [\[NAACL 2019\]](https://aclanthology.org/N19-1178), [\[EMNLP 2019\]](https://aclanthology.org/D19-1206), [\[EMNLP 2020\]](https://aclanthology.org/2020.emnlp-main.148), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40)
+* **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://aclanthology.org/P19-1566/), [\[CHI 2020\]](https://dl.acm.org/doi/10.1145/3313831.3376843), [\[AAAI 2020\]](https://ojs.aaai.org/index.php/AAAI/article/view/6345), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431), [\[EMNLP 2020b\]](https://aclanthology.org/2020.emnlp-main.654), [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375), [\[AACL 2022\]](https://arxiv.org/abs/2203.07657)
+* **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375) 
 <!-- * [\[Preprint\]](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing) -->
-* **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://arxiv.org/pdf/2108.12944.pdf), [\[EMNLP 2022\]](https://arxiv.org/pdf/2204.07667.pdf)
+* **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://aclanthology.org/2022.naacl-main.205), [\[EMNLP 2022\]](https://arxiv.org/abs/2204.07667)
 
 [Research Statement](http://wyshi.github.io/files/materials/research_public.pdf)
 
 ## Updates
 **Oct 2022**: I am excited to be named as [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)! Thanks UMD :) 
 
-**Oct 2022**: Our paper on [privacy-preserving Transformer-based models](https://arxiv.org/pdf/2204.07667.pdf) is accepted to EMNLP 2022.
+**Oct 2022**: Our paper on [privacy-preserving Transformer-based models](https://arxiv.org/abs/2204.07667) is accepted to EMNLP 2022.
 
 **Sep 2022**: I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
 
