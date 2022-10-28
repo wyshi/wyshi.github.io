@@ -19,7 +19,7 @@ Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
 
 [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research_public.pdf) / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf)
 
-Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Service](#service) / [Miscellaneous](#miscellaneous)
+Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Services](#services) / [Miscellaneous](#miscellaneous)
 
 
 ## Research Overview
@@ -173,7 +173,7 @@ Columbia Universty, Spring 2022
 * *Teaching Assistant*, Conversational AI Special Topics (COMS 6998)      
 Columbia University, Spring 2021
 
-## Service
+## Services
 <!-- **Conference reviewer**: ACL 2019, ACL 2020, *SEM 2020, ICLR 2021, AAAI 2021, EACL 2021, NAACL 2021, ACL 2021, *SEM 2021, NeurlPS 2021, EMNLP 2021, NLPCC 2021, ICLR 2022, AAAI 2022, ICML 2022, ACL 2022, CHI 2022, SIGDIAL 2022, HCI+NLP workshop at NAACL 2022, ACL Rolling Review -->
 * *Area Chair*, [Women in Machine Learning 2022](https://sites.google.com/view/wiml2022/home?authuser=0), NeurIPS 2022
 
