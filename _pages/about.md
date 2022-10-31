@@ -24,11 +24,11 @@ Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](
 
 ## Research Overview
 My research interests are in Natural Language Processing, especially **Dialogue Systems** 🤖 and the following directions:
-* **Task-oriented dialogue systems:** [\[ACL 2018\]](https://aclanthology.org/P18-1140), [\[NAACL 2019\]](https://aclanthology.org/N19-1178), [\[EMNLP 2019\]](https://aclanthology.org/D19-1206), [\[EMNLP 2020\]](https://aclanthology.org/2020.emnlp-main.148), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40)
-* **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://aclanthology.org/P19-1566/), [\[CHI 2020\]](https://dl.acm.org/doi/10.1145/3313831.3376843), [\[AAAI 2020\]](https://ojs.aaai.org/index.php/AAAI/article/view/6345), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431), [\[EMNLP 2020b\]](https://aclanthology.org/2020.emnlp-main.654), [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375), [\[AACL 2022\]](https://arxiv.org/abs/2203.07657)
+* **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://aclanthology.org/P19-1566/), [\[CHI 2020\]](https://dl.acm.org/doi/10.1145/3313831.3376843), [\[AAAI 2020\]](https://ojs.aaai.org/index.php/AAAI/article/view/6345), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431), [\[EMNLP 2020b\]](https://aclanthology.org/2020.emnlp-main.654), [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375), [\[AACL 2022\]](https://arxiv.org/abs/2203.07657), [\[New preprint\]](https://arxiv.org/abs/2210.05664)
+* **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://aclanthology.org/2022.naacl-main.205), [\[EMNLP 2022\]](https://arxiv.org/abs/2204.07667)
+* **Task-oriented and open-domain dialogue systems:** [\[ACL 2018\]](https://aclanthology.org/P18-1140), [\[NAACL 2019\]](https://aclanthology.org/N19-1178), [\[EMNLP 2019\]](https://aclanthology.org/D19-1206), [\[EMNLP 2020\]](https://aclanthology.org/2020.emnlp-main.148), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40), [\[New preprint\]](https://arxiv.org/abs/2210.15893)
 * **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375) 
 <!-- * [\[Preprint\]](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing) -->
-* **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://aclanthology.org/2022.naacl-main.205), [\[EMNLP 2022\]](https://arxiv.org/abs/2204.07667)
 
 [Research Statement](http://wyshi.github.io/files/materials/research_public.pdf)
 
@@ -39,7 +39,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 
 **Sep 2022**: I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
 
-**Jun - Sep 2022**: This summer I interned with [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) and [Jason Weston](http://www.thespermwhale.com/jaseweston/) on incorporating human feedback into chatbots. 
+**Jun - Sep 2022**: This summer I interned with [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) and [Jason Weston](http://www.thespermwhale.com/jaseweston/) to incorporate human feedback to continuously improve deployed chatbots (checkout our [paper](https://arxiv.org/abs/2210.15893)). 
 
 **Jun - Dec 2021**: Finished my internship with [Mike Lewis](https://scholar.google.co.uk/citations?user=SnQnQicAAAAJ&hl=en) on zero-shot dialogue nonsense detection.
 
@@ -56,11 +56,20 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 * National Scholarship, 2014
 * Presidential Fellowship for Studying Abroad, 2013
 
-## Publications
+## Papers
 [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2)
 
 <!-- ### Preprints -->
-<!-- ### Preprints -->
+### Preprints
+* [When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels](https://arxiv.org/abs/2210.15893)  
+**Weiyan Shi**, Emily Dinan, Kurt Shuster, Jason Weston\*, Jing Xu\*(equal contribution)  
+arXiv, 2022
+
+* [Social Influence Dialogue Systems: A Scoping Survey of the Efforts Towards Influence Capabilities of Dialogue Systems](https://arxiv.org/abs/2210.05664)  
+Kushal Chawla\*, **Weiyan Shi\***(equal contribution), Jingwen Zhang\*\*, Gale Lucas\*\*, Zhou Yu\*\*, Jonathan Gratch\*\*(co-supervision) 
+arXiv, 2022
+
+
 ### 2022
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
 Models](https://arxiv.org/abs/2204.07667)  
@@ -141,12 +150,12 @@ Yu Li, Kun Qian, **Weiyan Shi**, Zhou Yu
 
 ### 2019
 * [How to Build User Simulators to Train RL-based Dialogue Systems](https://aclanthology.org/D19-1206)  
-**Weiyan Shi\***, Kun Qian* (equal contribution), Xuewei Wang, Zhou Yu    
+**Weiyan Shi\***, Kun Qian*(equal contribution), Xuewei Wang, Zhou Yu    
 *EMNLP 2019* 
 <br>
 
 * [Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good](https://aclanthology.org/P19-1566/)  
-Xuewei Wang\*, **Weiyan Shi\*** (equal contribution), Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang, Zhou Yu    
+Xuewei Wang\*, **Weiyan Shi\***(equal contribution), Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang, Zhou Yu    
 *ACL 2019, [code and data](https://gitlab.com/ucdavisnlp/persuasionforgood)*, <span style="color:red">Best Paper Nomination</span>
 <br>
 
