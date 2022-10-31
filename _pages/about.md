@@ -66,7 +66,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 arXiv, 2022
 
 * [Social Influence Dialogue Systems: A Scoping Survey of the Efforts Towards Influence Capabilities of Dialogue Systems](https://arxiv.org/abs/2210.05664)  
-Kushal Chawla\*, **Weiyan Shi\***(equal contribution), Jingwen Zhang\*\*, Gale Lucas\*\*, Zhou Yu\*\*, Jonathan Gratch\*\*(co-supervision) 
+Kushal Chawla\*, **Weiyan Shi\***(equal contribution), Jingwen Zhang\*\*, Gale Lucas\*\*, Zhou Yu\*\*, Jonathan Gratch\*\*(co-supervision)  
 arXiv, 2022
 
 
