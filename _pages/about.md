@@ -17,7 +17,8 @@ This fall I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at C
 Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
 
 
-[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research_public.pdf) / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research_public.pdf) 
+<!-- / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf) -->
 
 Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Services](#services) / [Miscellaneous](#miscellaneous)
 
@@ -173,7 +174,7 @@ Xuewei Wang\*, **Weiyan Shi\***(equal contribution), Richard Kim, Yoojung Oh, Si
 <br>
 
 ## Teaching
-[Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf)
+<!-- [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf) -->
 * *Co-instructor*, Conversational AI Special Topics (COMS 6998)  
 Columbia Universty, Fall 2022  
 <br>
