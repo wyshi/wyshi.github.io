@@ -34,6 +34,8 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 [Research Statement](http://wyshi.github.io/files/materials/research_public.pdf)
 
 ## Updates
+**Nov 2022**: Check out our [<span style="color:Salmon">**Science publication**</span>](https://www.science.org/doi/10.1126/science.ade9097) on the first human-level negotiation AI agent that can negotiate, persuade, and coordinate with human players in natural language in the classic complex 7-player board game of Diplomacy! This tackles several challenges such as multi-party dialogue modeling, strategic reasoning, social influence and how to connect them in intense and length conversations!
+
 **Oct 2022**: I am excited to be named as [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)! Thanks UMD :) 
 
 **Oct 2022**: Our paper on [privacy-preserving Transformer-based models](https://arxiv.org/abs/2204.07667) is accepted to EMNLP 2022.
@@ -73,6 +75,12 @@ arXiv, 2022
 <br>
 
 ### 2022
+* [Human-Level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning](https://www.science.org/doi/10.1126/science.ade9097)  
+FAIR, Anton Bakhtin*, Noam Brown*, Emily Dinan*, Gabriele Farina, Colin Flaherty*, Daniel Fried, Andrew Goff, Jonathan Gray*, Hengyuan Hu*, Athul Paul Jacob*, Mojtaba Komeili, Karthik Konath, Minae Kwon, Adam Lerer*, Mike Lewis*, Alexander H. Miller*, Sasha Mitts, Adithya Renduchintala*, Stephen Roller, Dirk Rowe, **Weiyan Shi\***, Joe Spisak, Alexander Wei, David Wu*, Hugh Zhang*, Markus Zijlstra  
+(*A member of the core research team. Authors listed alphabetically.)  
+*<span style="color:Salmon">Science*</span> 2022, [blog post](https://ai.facebook.com/research/cicero/), [code](https://github.com/facebookresearch/diplomacy_cicero)
+<br>
+
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
 Models](https://arxiv.org/abs/2204.07667)  
 **Weiyan Shi**, Ryan Shea, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu  
