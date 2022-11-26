@@ -17,7 +17,7 @@ This fall I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at C
 Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
 
 
-[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research_public.pdf) 
+[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) 
 <!-- / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf) -->
 
 Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Services](#services) / [Miscellaneous](#miscellaneous)
@@ -76,8 +76,8 @@ arXiv, 2022
 
 ### 2022
 * [Human-Level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning](https://www.science.org/doi/10.1126/science.ade9097)  
-FAIR, Anton Bakhtin*, Noam Brown*, Emily Dinan*, Gabriele Farina, Colin Flaherty*, Daniel Fried, Andrew Goff, Jonathan Gray*, Hengyuan Hu*, Athul Paul Jacob*, Mojtaba Komeili, Karthik Konath, Minae Kwon, Adam Lerer*, Mike Lewis*, Alexander H. Miller*, Sasha Mitts, Adithya Renduchintala*, Stephen Roller, Dirk Rowe, **Weiyan Shi\***, Joe Spisak, Alexander Wei, David Wu*, Hugh Zhang*, Markus Zijlstra  
-(*A member of the core research team. Authors listed alphabetically.)  
+FAIR, Anton Bakhtin\*, Noam Brown\*, Emily Dinan\*, Gabriele Farina, Colin Flaherty\*, Daniel Fried, Andrew Goff, Jonathan Gray\*, Hengyuan Hu\*, Athul Paul Jacob\*, Mojtaba Komeili, Karthik Konath, Minae Kwon, Adam Lerer\*, Mike Lewis\*, Alexander H. Miller\*, Sasha Mitts, Adithya Renduchintala\*, Stephen Roller, Dirk Rowe, **Weiyan Shi\***, Joe Spisak, Alexander Wei, David Wu\*, Hugh Zhang\*, Markus Zijlstra  
+(\*A member of the core research team. Authors listed alphabetically.)  
 *<span style="color:Salmon">Science</span>* 2022, [blog post](https://ai.facebook.com/research/cicero/), [code](https://github.com/facebookresearch/diplomacy_cicero)
 <br>
 
