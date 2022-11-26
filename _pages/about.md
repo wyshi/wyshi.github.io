@@ -31,7 +31,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 * **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375) 
 <!-- * [\[Preprint\]](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing) -->
 
-[Research Statement](http://wyshi.github.io/files/materials/research_public.pdf)
+[Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf)
 
 ## Updates
 **Nov 2022**: Check out our [<span style="color:Salmon">**Science publication**</span>](https://www.science.org/doi/10.1126/science.ade9097) on the first human-level negotiation AI agent that can negotiate, persuade, and coordinate with human players in natural language in the classic complex 7-player board game of Diplomacy! This tackles several challenges such as multi-party dialogue modeling, strategic reasoning, social influence and how to connect them in intense and length conversations!
