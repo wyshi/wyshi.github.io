@@ -78,7 +78,7 @@ arXiv, 2022
 * [Human-Level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning](https://www.science.org/doi/10.1126/science.ade9097)  
 FAIR, Anton Bakhtin\*, Noam Brown\*, Emily Dinan\*, Gabriele Farina, Colin Flaherty\*, Daniel Fried, Andrew Goff, Jonathan Gray\*, Hengyuan Hu\*, Athul Paul Jacob\*, Mojtaba Komeili, Karthik Konath, Minae Kwon, Adam Lerer\*, Mike Lewis\*, Alexander H. Miller\*, Sasha Mitts, Adithya Renduchintala\*, Stephen Roller, Dirk Rowe, **Weiyan Shi\***, Joe Spisak, Alexander Wei, David Wu\*, Hugh Zhang\*, Markus Zijlstra  
 (\*A member of the core research team. Authors listed alphabetically.)  
-*<span style="color:Salmon">Science</span>* 2022, [blog post](https://ai.facebook.com/research/cicero/), [code](https://github.com/facebookresearch/diplomacy_cicero)
+*<span style="color:Salmon">Science</span>* 2022, [Meta AI blog post](https://ai.facebook.com/research/cicero/), [code](https://github.com/facebookresearch/diplomacy_cicero), [Commentary in Science News](https://www.science.org/content/article/ai-learns-art-diplomacy-game), [The Economist](https://www.economist.com/science-and-technology/2022/11/23/another-game-falls-to-an-ai-player?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content)
 <br>
 
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
