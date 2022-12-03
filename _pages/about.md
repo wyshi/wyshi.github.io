@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a fifth-year PhD student in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing. Previously, I completed my master's degree in Statistics from [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). I have worked in the SF bay area as a full-time data scientist on customer service chatbots for two years before starting my PhD.
+Welcome! I am a fifth-year PhD student in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing. Previously, I completed my master's degree in Statistics from the [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). I have worked in the SF bay area as a full-time data scientist on customer service chatbots for two years before starting my PhD.
 
 This fall I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
 
-<span style="color:blue">**I am on the academic job market looking for tenure-track positions :)**</span>
+<span style="color:blue">**I am on the faculty job market looking for tenure-track positions :)**</span>
 
 
 Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
@@ -25,16 +25,16 @@ Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](
 
 ## Research Overview
 My research interests are in Natural Language Processing, especially **Dialogue Systems** 🤖 and the following directions:
-* **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://aclanthology.org/P19-1566/), [\[CHI 2020\]](https://dl.acm.org/doi/10.1145/3313831.3376843), [\[AAAI 2020\]](https://ojs.aaai.org/index.php/AAAI/article/view/6345), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431), [\[EMNLP 2020b\]](https://aclanthology.org/2020.emnlp-main.654), [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375), [\[AACL 2022\]](https://arxiv.org/abs/2203.07657), [\[New preprint\]](https://arxiv.org/abs/2210.05664)
+* **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://aclanthology.org/P19-1566/), [\[CHI 2020\]](https://dl.acm.org/doi/10.1145/3313831.3376843), [\[AAAI 2020\]](https://ojs.aaai.org/index.php/AAAI/article/view/6345), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431), [\[EMNLP 2020b\]](https://aclanthology.org/2020.emnlp-main.654), [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375), [\[AACL 2022\]](https://arxiv.org/abs/2203.07657), [\[New preprint\]](https://arxiv.org/abs/2210.05664), [\[Science\]](https://www.science.org/doi/10.1126/science.ade9097)
 * **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://aclanthology.org/2022.naacl-main.205), [\[EMNLP 2022\]](https://arxiv.org/abs/2204.07667)
 * **Task-oriented and open-domain dialogue systems:** [\[ACL 2018\]](https://aclanthology.org/P18-1140), [\[NAACL 2019\]](https://aclanthology.org/N19-1178), [\[EMNLP 2019\]](https://aclanthology.org/D19-1206), [\[EMNLP 2020\]](https://aclanthology.org/2020.emnlp-main.148), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40), [\[New preprint\]](https://arxiv.org/abs/2210.15893)
-* **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375) 
+* **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375) [\[New preprint\]](https://arxiv.org/abs/2211.12615) 
 <!-- * [\[Preprint\]](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing) -->
 
 [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf)
 
 ## Updates
-**Nov 2022**: Check out our [<span style="color:Salmon">**Science publication**</span>](https://www.science.org/doi/10.1126/science.ade9097) on the first human-level negotiation AI agent that can negotiate, persuade, and coordinate with human players in natural language in the classic complex 7-player board game of Diplomacy! This tackles several challenges such as multi-party dialogue modeling, strategic reasoning, social influence and how to connect them in intense and length conversations!
+**Nov 2022**: Check out our [<span style="color:Salmon">***Science* publication**</span>](https://www.science.org/doi/10.1126/science.ade9097) on the first human-level negotiation AI agent that can negotiate, persuade, and coordinate with human players in natural language in the classic complex 7-player board game of Diplomacy! This tackles several challenges such as multi-party dialogue modeling, strategic reasoning, social influence and how to connect them in intense and length conversations! [\[Meta AI blog post\]](https://ai.facebook.com/research/cicero/)[\[code\]](https://github.com/facebookresearch/diplomacy_cicero) [\[Commentary in Science News\]](https://www.science.org/content/article/)
 
 **Oct 2022**: I am excited to be named as [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)! Thanks UMD :) 
 
@@ -42,7 +42,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 
 **Sep 2022**: I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
 
-**Jun - Sep 2022**: This summer I interned with [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) and [Jason Weston](http://www.thespermwhale.com/jaseweston/) to incorporate human feedback to continuously improve deployed chatbots (checkout our [paper](https://arxiv.org/abs/2210.15893)). 
+**Jun - Sep 2022**: This summer I interned with [Jason Weston](http://www.thespermwhale.com/jaseweston/) and [Jing Xu](https://scholar.google.com/citations?user=H3Uq3FcAAAAJ&hl=en&authuser=2&oi=ao) to incorporate human feedback to continuously improve deployed chatbots (checkout our [paper](https://arxiv.org/abs/2210.15893)). 
 
 **Jun - Dec 2021**: Finished my internship with [Mike Lewis](https://scholar.google.co.uk/citations?user=SnQnQicAAAAJ&hl=en) on zero-shot dialogue nonsense detection.
 
@@ -64,6 +64,11 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 
 <!-- ### Preprints -->
 ### Preprints
+* [AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies](https://arxiv.org/abs/2211.12615)  
+**Weiyan Shi**, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis  
+arXiv, 2022
+<br>
+
 * [When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels](https://arxiv.org/abs/2210.15893)  
 **Weiyan Shi**, Emily Dinan, Kurt Shuster, Jason Weston\*, Jing Xu\*(equal contribution)  
 arXiv, 2022
@@ -83,6 +88,7 @@ FAIR, Anton Bakhtin\*, Noam Brown\*, Emily Dinan\*, Gabriele Farina, Colin Flahe
 Selected media coverage: [The Economist](https://www.economist.com/science-and-technology/2022/11/23/another-game-falls-to-an-ai-player?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content), [MIT Technology Review](https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/), [Forbes](https://www.forbes.com/sites/carlieporterfield/2022/11/22/metas-ai-gamer-beat-humans-in-diplomacy-using-strategy-and-negotiation/?sh=14a47ba5788b)
 <br>
 
+
 * [Just Fine-tune Twice: Selective Differential Privacy for Large Language
 Models](https://arxiv.org/abs/2204.07667)  
 **Weiyan Shi**, Ryan Shea, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu  
@@ -94,10 +100,6 @@ Maximillian Chen, **Weiyan Shi**, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sa
 *AACL 2022*
 <br>
 
-<!-- * [AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing)  
-Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis  
-*Preprint*, 2022
-<br> -->
 
 * [Selective Differential Privacy for Language Modeling](https://aclanthology.org/2022.naacl-main.205)  
 **Weiyan Shi**, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu  
