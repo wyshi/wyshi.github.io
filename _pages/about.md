@@ -63,22 +63,6 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2)
 
 <!-- ### Preprints -->
-### Preprints
-* [AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies](https://arxiv.org/abs/2211.12615)  
-**Weiyan Shi**, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis  
-arXiv, 2022
-<br>
-
-* [When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels](https://arxiv.org/abs/2210.15893)  
-**Weiyan Shi**, Emily Dinan, Kurt Shuster, Jason Weston\*, Jing Xu\*(equal contribution)  
-arXiv, 2022
-<br>
-
-* [Social Influence Dialogue Systems: A Scoping Survey of the Efforts Towards Influence Capabilities of Dialogue Systems](https://arxiv.org/abs/2210.05664)  
-Kushal Chawla\*, **Weiyan Shi\***(equal contribution), Jingwen Zhang\*\*, Gale Lucas\*\*, Zhou Yu\*\*, Jonathan Gratch\*\*(co-supervision)  
-arXiv, 2022
-<br>
-
 ### 2022
 * [Human-Level Play in the Game of Diplomacy by Combining Language Models with Strategic Reasoning](https://www.science.org/doi/10.1126/science.ade9097)  
 FAIR, Anton Bakhtin\*, Noam Brown\*, Emily Dinan\*, Gabriele Farina, Colin Flaherty\*, Daniel Fried, Andrew Goff, Jonathan Gray\*, Hengyuan Hu\*, Athul Paul Jacob\*, Mojtaba Komeili, Karthik Konath, Minae Kwon, Adam Lerer\*, Mike Lewis\*, Alexander H. Miller\*, Sasha Mitts, Adithya Renduchintala\*, Stephen Roller, Dirk Rowe, **Weiyan Shi\***, Joe Spisak, Alexander Wei, David Wu\*, Hugh Zhang\*, Markus Zijlstra  
@@ -183,6 +167,23 @@ Xuewei Wang\*, **Weiyan Shi\***(equal contribution), Richard Kim, Yoojung Oh, Si
 * [Sentiment Adaptive End-to-End Dialogue Systems](https://aclanthology.org/P18-1140)  
 **Weiyan Shi**, Zhou Yu  
 *ACL 2018*, [data](https://github.com/wyshi/sentiment-adaptive-dialog-systems)
+<br>
+
+
+### Preprints
+* [AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies](https://arxiv.org/abs/2211.12615)  
+**Weiyan Shi**, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Paul Jacob, Zhou Yu, Mike Lewis  
+arXiv, 2022
+<br>
+
+* [When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into Good Labels](https://arxiv.org/abs/2210.15893)  
+**Weiyan Shi**, Emily Dinan, Kurt Shuster, Jason Weston\*, Jing Xu\*(equal contribution)  
+arXiv, 2022
+<br>
+
+* [Social Influence Dialogue Systems: A Scoping Survey of the Efforts Towards Influence Capabilities of Dialogue Systems](https://arxiv.org/abs/2210.05664)  
+Kushal Chawla\*, **Weiyan Shi\***(equal contribution), Jingwen Zhang\*\*, Gale Lucas\*\*, Zhou Yu\*\*, Jonathan Gratch\*\*(co-supervision)  
+arXiv, 2022
 <br>
 
 ## Teaching
