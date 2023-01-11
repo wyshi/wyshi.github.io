@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! I am a fifth-year PhD student in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing. Previously, I completed my master's degree in Statistics from the [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). I have worked in the SF bay area as a full-time data scientist on customer service chatbots for two years before starting my PhD.
 
-This fall I am co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
+This past fall I was co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
 
 <span style="color:blue">**I am on the faculty job market looking for tenure-track positions :)**</span>
 
@@ -24,12 +24,15 @@ Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](
 
 
 ## Research Overview
-My research interests are in Natural Language Processing, especially **Dialogue Systems** 🤖 and the following directions:
-* **Strategic and social influence dialogue systems for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://aclanthology.org/P19-1566/), [\[CHI 2020\]](https://dl.acm.org/doi/10.1145/3313831.3376843), [\[AAAI 2020\]](https://ojs.aaai.org/index.php/AAAI/article/view/6345), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431), [\[EMNLP 2020b\]](https://aclanthology.org/2020.emnlp-main.654), [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375), [\[AACL 2022\]](https://arxiv.org/abs/2203.07657), [\[New preprint\]](https://arxiv.org/abs/2210.05664), [\[Science\]](https://www.science.org/doi/10.1126/science.ade9097)
+My research interests are in Natural Language Processing, especially **intelligent interactive systems** 🤖 and the following directions:
+* **Interactive systems specialized in social influence for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://aclanthology.org/P19-1566/), [\[CHI 2020\]](https://dl.acm.org/doi/10.1145/3313831.3376843), [\[AAAI 2020\]](https://ojs.aaai.org/index.php/AAAI/article/view/6345), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431), [\[EMNLP 2020b\]](https://aclanthology.org/2020.emnlp-main.654), [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375), [\[AACL 2022\]](https://arxiv.org/abs/2203.07657), [\[New preprint\]](https://arxiv.org/abs/2210.05664), [\[Science\]](https://www.science.org/doi/10.1126/science.ade9097)
 * **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://aclanthology.org/2022.naacl-main.205), [\[EMNLP 2022\]](https://arxiv.org/abs/2204.07667)
 * **Task-oriented and open-domain dialogue systems:** [\[ACL 2018\]](https://aclanthology.org/P18-1140), [\[NAACL 2019\]](https://aclanthology.org/N19-1178), [\[EMNLP 2019\]](https://aclanthology.org/D19-1206), [\[EMNLP 2020\]](https://aclanthology.org/2020.emnlp-main.148), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40), [\[New preprint\]](https://arxiv.org/abs/2210.15893)
 * **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375) [\[New preprint\]](https://arxiv.org/abs/2211.12615) 
+* **Learning through interaction:** [\[New preprint\]](https://arxiv.org/abs/2210.15893)
 <!-- * [\[Preprint\]](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing) -->
+
+My **research vision** is to build a natural interface between human intelligence and machine intelligence via natural conversations, so that all members of society can interact with AI models seamlessly regardless of their backgrounds. Glad we are going in that direction with *[ChatGPT](https://chat.openai.com/)*!
 
 [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf)
 
@@ -54,7 +57,7 @@ My research interests are in Natural Language Processing, especially **Dialogue 
 * [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)
 * [Best Paper Nomination, ACL 2019](https://aclanthology.org/P19-1566/) 
 * Dean's Distinguished PhD Fellowship
-* Department Citation (top 1), UC Berkeley, 2016
+* [Department Citation (top 1), UC Berkeley, 2016](https://statistics.berkeley.edu/about/awards-and-honors/student-departmental-awards)
 * Speaker at Department Commencement (top 1), UC Berkeley, 2016
 * National Scholarship, 2014
 * Presidential Fellowship for Studying Abroad, 2013
