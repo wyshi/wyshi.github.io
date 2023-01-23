@@ -20,7 +20,7 @@ Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
 [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) 
 <!-- / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf) -->
 
-Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](#awards) / [Publications](#publications) / [Teaching](#teaching) / [Services](#services) / [Miscellaneous](#miscellaneous)
+Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](#awards) / [Papers](#papers) / [Teaching](#teaching) / [Services](#services) / [Miscellaneous](#miscellaneous)
 
 
 ## Research Overview
