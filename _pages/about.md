@@ -37,6 +37,7 @@ My **research vision** is to build a natural interface between human intelligenc
 [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf)
 
 ## Updates
+**Jan 2023**: Our Cicero work made it into the [New York Times front page](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html)!
 **Nov 2022**: Check out our [<span style="color:Salmon">***Science* publication**</span>](https://www.science.org/doi/10.1126/science.ade9097) on the first human-level negotiation AI agent that can negotiate, persuade, and coordinate with human players in natural language in the classic complex 7-player board game of Diplomacy! This tackles several challenges such as multi-party dialogue modeling, strategic reasoning, social influence and how to connect them in intense and length conversations! [\[Meta AI blog post\]](https://ai.facebook.com/research/cicero/) [\[code\]](https://github.com/facebookresearch/diplomacy_cicero) [\[Commentary in Science News\]](https://www.science.org/content/article/)
 
 **Oct 2022**: I am excited to be named as [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)! Thanks UMD :) 
@@ -72,7 +73,8 @@ FAIR, Anton Bakhtin\*, Noam Brown\*, Emily Dinan\*, Gabriele Farina, Colin Flahe
 (\*A member of the core research team. Authors listed alphabetically.)  
 *<span style="color:Salmon">Science</span>* 2022, [Meta AI blog post](https://ai.facebook.com/research/cicero/), [code](https://github.com/facebookresearch/diplomacy_cicero)  
 [Commentary in Science News](https://www.science.org/content/article/ai-learns-art-diplomacy-game) by Matthew Hutson, Yoram Bachrach, Noam Brown, Jonathan Gratch, and Zhou Yu  
-Selected media coverage: [The Economist](https://www.economist.com/science-and-technology/2022/11/23/another-game-falls-to-an-ai-player?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content), [MIT Technology Review](https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/), [Forbes](https://www.forbes.com/sites/carlieporterfield/2022/11/22/metas-ai-gamer-beat-humans-in-diplomacy-using-strategy-and-negotiation/?sh=14a47ba5788b)
+[New York Times (front page)](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html)
+Selected media coverage:[New York Times (front page)](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html), [The Washington Post](https://www.washingtonpost.com/technology/2022/12/01/meta-diplomacy-ai-cicero/), [The Economist](https://www.economist.com/science-and-technology/2022/11/23/another-game-falls-to-an-ai-player?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content), [MIT Technology Review](https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/), [Forbes](https://www.forbes.com/sites/carlieporterfield/2022/11/22/metas-ai-gamer-beat-humans-in-diplomacy-using-strategy-and-negotiation/?sh=14a47ba5788b)
 <br>
 
 
