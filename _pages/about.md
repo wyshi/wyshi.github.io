@@ -37,6 +37,8 @@ My **research vision** is to build a natural interface between human intelligenc
 [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf)
 
 ## Updates
+**2023**: Talk "Interactive AI Systems Specialized in Social Influence" at the University of Hawaii (2023/01), Rice (2023/01), Northwestern (2023/01), ASU (2023/02), Purdue (2023/02), CMU (2023/02), Northeastern (2023/03), UW-Madison (2023/03), PSU (2023/03).  
+
 **Jan 2023**: Our Cicero work made it into the [<span style="color:Salmon">New York Times front page</span>](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html)!
 
 **Nov 2022**: Check out our [<span style="color:Salmon">***Science* publication**</span>](https://www.science.org/doi/10.1126/science.ade9097) on the first human-level negotiation AI agent that can negotiate, persuade, and coordinate with human players in natural language in the classic complex 7-player board game of Diplomacy! This tackles several challenges such as multi-party dialogue modeling, strategic reasoning, social influence and how to connect them in intense and length conversations! [\[Meta AI blog post\]](https://ai.facebook.com/research/cicero/) [\[code\]](https://github.com/facebookresearch/diplomacy_cicero) [\[Commentary in Science News\]](https://www.science.org/content/article/)
