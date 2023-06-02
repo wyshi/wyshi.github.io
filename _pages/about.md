@@ -7,11 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am a fifth-year PhD student in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing. Previously, I completed my master's degree in Statistics from the [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). I have worked in the SF bay area as a full-time data scientist on customer service chatbots for two years before starting my PhD.
+Welcome! I just graduated with my PhD degree in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing. Previously, I completed my master's degree in Statistics from the [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). I have worked in the SF bay area as a full-time data scientist on customer service chatbots for two years before starting my PhD.
 
-This past fall I was co-teaching <em>Conversational AI</em> (COMS 6998) with Zhou at Columbia.
-
-<span style="color:blue">**I am on the faculty job market looking for tenure-track positions :)**</span>
+<span style="color:blue">**I am joining Stanford NLP as a postdoc for 2023-2024 and Northeastern University as a tenure-track assistant professor in Fall 2024. If you are interested in working with my, feel free to send me an email :)**</span>
 
 
 Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
@@ -37,7 +35,7 @@ My **research vision** is to build a natural interface between human intelligenc
 [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf)
 
 ## Updates
-**2023**: Talk "Interactive AI Systems Specialized in Social Influence" at the University of Hawaii (2023/01), Rice (2023/01), Northwestern (2023/01), ASU (2023/02), Purdue (2023/02), CMU (2023/02), Northeastern (2023/03), UW-Madison (2023/03), PSU (2023/03).  
+**2023**: Talk "Interactive AI Systems Specialized in Social Influence" at the University of Hawaii (2023/01), Rice (2023/01), Northwestern Stats and Data Science (2023/01), ASU (2023/02), Purdue (2023/02), CMU (2023/02), Northeastern (2023/03), UW-Madison i-School (2023/03), PSU (2023/03), Cornell Tech (2023/04), NYU (2023/05), Stanford NLP (2023/06).  
 
 **Jan 2023**: Our Cicero work made it into the [<span style="color:Salmon">New York Times front page</span>](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html)!
 
