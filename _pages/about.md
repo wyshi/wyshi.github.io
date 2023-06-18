@@ -15,7 +15,8 @@ Welcome! I just graduated with my PhD degree in Computer Science at [Columbia Un
 Email: [ws2634@columbia.edu](mailto:ws2634@columbia.edu)
 
 
-[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) / [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf)
+[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) 
+<!-- / [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf) -->
 <!-- / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf) -->
 
 Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](#awards) / [Papers](#papers) / [Teaching](#teaching) / [Services](#services) / [Miscellaneous](#miscellaneous)
@@ -32,8 +33,7 @@ My research interests are in Natural Language Processing, especially **intellige
 
 My **research vision** is to build a natural interface between human intelligence and machine intelligence via natural conversations, so that all members of society can interact with AI models seamlessly regardless of their backgrounds. Glad we are going in that direction with *[ChatGPT](https://chat.openai.com/)*!
 
-[Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf)
-
+<!-- [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) -->
 ## Updates
 **2023**: Talk "Interactive AI Systems Specialized in Social Influence" at the University of Hawaii (2023/01), Rice (2023/01), Northwestern Stats and Data Science (2023/01), ASU (2023/02), Purdue (2023/02), CMU (2023/02), Northeastern (2023/03), UW-Madison i-School (2023/03), PSU (2023/03), Cornell Tech (2023/04), NYU (2023/05), Stanford NLP (2023/06).  
 
