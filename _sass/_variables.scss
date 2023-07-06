@@ -5,6 +5,17 @@
 /*
    Typography
    ========================================================================== */
+@font-face {
+   font-family: 'MyFont';
+   src: url('../_fonts/Manrope/static/Manrope-Light.ttf') format('truetype');
+   font-weight: normal;
+}
+
+@font-face {
+   font-family: 'MyFont';
+   src: url('../_fonts/Manrope/static/Manrope-SemiBold.ttf') format('truetype');
+   font-weight: bold;
+}
 
 $doc-font-size : 10;
 
@@ -49,9 +60,9 @@ serif;
 $garamond : Garamond,
 serif;
 
-$global-font-family : $helvetica;
-$header-font-family : $sans-serif;
-$caption-font-family : $serif;
+$global-font-family : MyFont;
+$header-font-family : MyFont;
+$caption-font-family : MyFont;
 
 /* type scale */
 $type-size-1 : 2.441em; // ~39.056px
@@ -145,7 +156,8 @@ $right-sidebar-width-narrow : 0px;
 $right-sidebar-width : 0px;
 $right-sidebar-width-wide : 0px;
 
-$susy: (columns: 12,
+$susy: (
+   columns: 12,
    column-width: 120px,
    gutters: 1/4,
    math: fluid,
