@@ -1,13 +1,7 @@
 # main links links
 main:
-  - title: ""
-    url: /publications/
-
-  - title: ""
-    url: /talks/    
-
   - title: "CHATS-Lab"
-    url: /teaching/    
+    url: /chats_lab/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
