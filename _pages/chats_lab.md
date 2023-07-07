@@ -4,5 +4,5 @@ title: "CHATS-Lab"
 permalink: /chats_lab/
 author_profile: true
 ---
-CHATS (Conversation, Human, AI, Technology, Security) Lab
+CHATS (**C**onversation, **H**uman-**A**I **T**echnology, **S**ecurity) Lab
 
