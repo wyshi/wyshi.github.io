@@ -22,10 +22,12 @@ I am joining Northeastern University in Fall 2024. If you are interested in work
   <li>Multi-modal Multi-party Conversational Agent</li>
   <li>Computational Social Science/Human-Computer Interaction</li>
 </ul>
+<br>
 
 **CHATS Lab's first project**
 
-https://chats-lab.github.io/KokoMind/
+[KokoMind](https://chats-lab.github.io/KokoMind/)
+<video src="https://github.com/CHATS-lab/KokoMind/assets/13882237/731427bf-0d3c-4870-b36e-e146f954309b" controls="controls" style="max-width: 730px;">
+</video>
 
-https://github.com/CHATS-lab/KokoMind/assets/13882237/731427bf-0d3c-4870-b36e-e146f954309b
 
