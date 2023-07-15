@@ -7,7 +7,7 @@ author_profile: true
 CHATS (**C**onversation, **H**uman-**A**I **T**echnology, **S**ecurity) Lab
 
 
-<img src="logo.png" width="300">
+<img src="./logo.png" width="300">
 <!-- ![alt text](logo.png "Title") -->
 
 
