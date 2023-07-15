@@ -11,7 +11,7 @@ CHATS (**C**onversation, **H**uman-**A**I **T**echnology, **S**ecurity) Lab
 <!-- ![image info](./pictures/image.png) -->
 <!-- ![CHATS](https://github.com/wyshi/wyshi.github.io/blob/master/_pages/logo.png) -->
 
-<img src="images/logo.png" width="300">
+<img src="../images/logo.png" width="300">
 
 <!-- ![alt text](logo.png "Title") -->
 
