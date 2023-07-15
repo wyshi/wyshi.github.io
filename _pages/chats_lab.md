@@ -8,7 +8,9 @@ CHATS (**C**onversation, **H**uman-**A**I **T**echnology, **S**ecurity) Lab
 
 <br/><br/>
 
-<img src="https://github.com/wyshi/wyshi.github.io/blob/master/_pages/logo.png" width="300">
+<!-- ![image info](./pictures/image.png) -->
+![CHATS](https://github.com/wyshi/wyshi.github.io/blob/master/_pages/logo.png)
+<!-- <img src="https://github.com/wyshi/wyshi.github.io/blob/master/_pages/logo.png" width="300"> -->
 <!-- ![alt text](logo.png "Title") -->
 
 <br/><br/>
