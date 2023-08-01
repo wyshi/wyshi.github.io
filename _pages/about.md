@@ -9,7 +9,7 @@ redirect_from:
 ---
 Welcome! I am a Postdoc at Stanford NLP, working with [Diyi Yang](http://www.diyiyang.com/). I graduated with my PhD in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/), working on Natural Language Processing. Previously, I completed my master's degree in Statistics from the [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). I have worked in the SF bay area as a full-time data scientist on customer service chatbots for two years before starting my PhD.
 
-<span style="color:blue">**I am joining Northeastern University as a tenure-track assistant professor in Fall 2024. If you are interested in working with me, feel free to fill out [this form (PhD/intern)](https://forms.gle/WNUv7y8ds4dXoVkH8) or [this form (Postdoc)](https://forms.gle/AwWxjcEsCD9LdswFA) and send me an email :)**</span>
+<span style="color:blue">**I am joining Northeastern University as a tenure-track assistant professor in Fall 2024. If you are interested in working with me, <u>make sure</u> to fill out [this form (PhD/intern)](https://forms.gle/WNUv7y8ds4dXoVkH8) or [this form (Postdoc)](https://forms.gle/AwWxjcEsCD9LdswFA) and send me an email :)**</span>
 
 
 Email: [weiyans@stanford.edu](mailto:weiyans@stanford.edu)
