@@ -28,6 +28,18 @@ I am joining Northeastern University in Fall 2024. If you are interested in work
 </ul>
 <br>
 
+**Persuasive misinformation**
+
+[Persuasive Misinformation](https://llms-believe-the-earth-is-flat.github.io/)
+[Paper](https://arxiv.org/pdf/2312.09085.pdf)
+
+**Persuasive Jailbreak**
+
+[Persuasive Jailbreaker](https://chats-lab.github.io/persuasive_jailbreaker/)
+[Paper](https://www.yi-zeng.com/wp-content/uploads/2024/01/view.pdf) 
+<video src="https://github.com/CHATS-lab/persuasive_jailbreaker/assets/61967882/3c04d83c-564d-40a5-87e8-423e0d377012" controls="controls" style="max-width: 730px;">
+</video>
+
 **CHATS Lab's first project**
 
 [KokoMind project](https://chats-lab.github.io/KokoMind/)
