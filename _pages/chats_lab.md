@@ -36,7 +36,7 @@ I am joining Northeastern University in Fall 2024. If you are interested in work
 **Persuasive Jailbreak**
 
 [Persuasive Jailbreaker](https://chats-lab.github.io/persuasive_jailbreaker/)
-[Paper](https://www.yi-zeng.com/wp-content/uploads/2024/01/view.pdf) 
+[Paper](https://arxiv.org/abs/2401.06373) 
 <video src="https://github.com/CHATS-lab/persuasive_jailbreaker/assets/61967882/3c04d83c-564d-40a5-87e8-423e0d377012" controls="controls" style="max-width: 730px;">
 </video>
 

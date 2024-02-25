@@ -31,13 +31,15 @@ My research interests are in Natural Language Processing, especially **intellige
 * **Learning through interaction:** [\[New preprint\]](https://arxiv.org/abs/2210.15893)
 <!-- * [\[Preprint\]](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing) -->
 
-My **research vision** is to build a natural interface between human intelligence and machine intelligence via natural conversations, so that all members of society can interact with AI models seamlessly regardless of their backgrounds. Glad we are going in that direction with *[ChatGPT](https://chat.openai.com/)*!
+My **research vision** is to build a natural interface between human intelligence and machine intelligence via natural conversations, so that all members of society can interact with AI models seamlessly regardless of their backgrounds. 
+<!-- Glad we are going in that direction with *[ChatGPT](https://chat.openai.com/)*! -->
 
 <!-- [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) -->
 ## Updates
 **Jan 2024**: Checkout our new papers on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) with a success rate of 92%, and how to [persuade them to believe in misinformation](https://llms-believe-the-earth-is-flat.github.io/)!
 <video src="https://github.com/CHATS-lab/persuasive_jailbreaker/assets/61967882/3c04d83c-564d-40a5-87e8-423e0d377012" controls="controls" style="max-width: 730px;">
 </video>
+
 
 **July 2023**: Checkout CHATS' lab's first project, [KokoMind](https://chats-lab.github.io/KokoMind/)
 
@@ -64,6 +66,7 @@ My **research vision** is to build a natural interface between human intelligenc
 
 ## Awards
 * Rising Stars in AI, KAUST, 2023
+* [Rising Stars in EECS, 2023](https://eecsrisingstars2023.cc.gatech.edu/participants/)
 * [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)
 * [Best Paper Nomination, ACL 2019](https://aclanthology.org/P19-1566/) 
 * Dean's Distinguished PhD Fellowship
@@ -77,7 +80,7 @@ My **research vision** is to build a natural interface between human intelligenc
 
 <!-- ### Preprints -->
 ### 2024
-* [How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://www.yi-zeng.com/wp-content/uploads/2024/01/view.pdf)  
+* [How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)  
 Yi Zeng\*, Hongpeng Lin\* (lead authors), Jingwen Zhang, Diyi Yang, Ruoxi Jia\*, **Weiyan Shi\*** (co-supervise)  
 *arXiv*, [project page](https://chats-lab.github.io/persuasive_jailbreaker/), [code and data](https://github.com/CHATS-lab/persuasive_jailbreaker)
 <br>
