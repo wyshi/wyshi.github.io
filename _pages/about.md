@@ -15,7 +15,8 @@ Welcome! I am a Postdoc at Stanford NLP, working with [Diyi Yang](http://www.diy
 Email: [weiyans@stanford.edu](mailto:weiyans@stanford.edu)
 
 
-[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) / [CV](http://wyshi.github.io/files/materials/CV.pdf) 
+[Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) 
+<!-- / [CV](http://wyshi.github.io/files/materials/CV.pdf)  -->
 <!-- / [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf) -->
 <!-- / [Teaching Statement](http://wyshi.github.io/files/materials/teaching.pdf) -->
 
