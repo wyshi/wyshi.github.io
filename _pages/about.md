@@ -37,6 +37,10 @@ My **research vision** is to build a natural interface between human intelligenc
 
 <!-- [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) -->
 ## Updates
+**Aug 2024**: We got TWO paper awards at ACL this year! 
+* **Best Social Impact Paper**: [Persuasive Jailbreaker](https://arxiv.org/abs/2401.06373)
+* **Outstanding Paper**: [Persuasive misinformation](https://arxiv.org/abs/2312.09085) 
+
 **Jan 2024**: Checkout our new papers on how to [persuade LLMs to jailbreak them](https://chats-lab.github.io/persuasive_jailbreaker/) with a success rate of 92%, and how to [persuade them to believe in misinformation](https://llms-believe-the-earth-is-flat.github.io/)!
 <video src="https://github.com/CHATS-lab/persuasive_jailbreaker/assets/61967882/3c04d83c-564d-40a5-87e8-423e0d377012" controls="controls" style="max-width: 730px;">
 </video>
