@@ -70,6 +70,8 @@ My **research vision** is to build a natural interface between human intelligenc
 
 
 ## Awards
+* [Best Social Impact Paper, ACL 2024](https://arxiv.org/abs/2401.06373)
+* [Outstanding Paper, ACL 2024](https://arxiv.org/abs/2312.09085)
 * Rising Stars in AI, KAUST, 2023
 * [Rising Stars in EECS, 2023](https://eecsrisingstars2023.cc.gatech.edu/participants/)
 * [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)
