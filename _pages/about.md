@@ -89,13 +89,13 @@ My **research vision** is to build a natural interface between human intelligenc
 ### 2024
 * [How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI Safety by Humanizing LLMs](https://arxiv.org/abs/2401.06373)  
 Yi Zeng\*, Hongpeng Lin\* (lead authors), Jingwen Zhang, Diyi Yang, Ruoxi Jia\*, **Weiyan Shi\*** (co-supervise)  
-*arXiv*, [project page](https://chats-lab.github.io/persuasive_jailbreaker/), [code and data](https://github.com/CHATS-lab/persuasive_jailbreaker)
+*ACL 2024*, [project page](https://chats-lab.github.io/persuasive_jailbreaker/), [code and data](https://github.com/CHATS-lab/persuasive_jailbreaker), <span style="color:red">Best Social Impact Paper</span>
 <br>
 
 ### 2023
 * [The Earth is Flat because...: Investigating LLMs’ Belief towards Misinformation via Persuasive Conversation](https://arxiv.org/abs/2312.09085)  
 Rongwu Xu, Brian S. Lin, Shujian Yang, Tianqi Zhang, Weiyan Shi\*, Tianwei Zhang, Zhixuan Fang, Wei Xu, Han Qiu\* (equal advising)  
-*arXiv*, [project page](https://llms-believe-the-earth-is-flat.github.io/), [code and data](https://github.com/LLMs-believe-the-earth-is-flat/llms-believe-the-earth-is-flat)
+*ACL 2024*, [project page](https://llms-believe-the-earth-is-flat.github.io/), [code and data](https://github.com/LLMs-believe-the-earth-is-flat/llms-believe-the-earth-is-flat), <span style="color:red">Outstanding Paper</span>
 <br>
 
 * [AutoReply: Detecting Nonsense in Dialogue Introspectively with Discriminative Replies](https://arxiv.org/abs/2211.12615)  
