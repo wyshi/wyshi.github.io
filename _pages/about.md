@@ -12,7 +12,7 @@ Welcome! I am an assistant professor at Northeastern University, jointly appoint
 <!-- <span style="color:blue">**I am joining Northeastern University as a tenure-track assistant professor in Fall 2024. If you are interested in working with me, <u>make sure</u> to fill out [this form (PhD/intern)](https://forms.gle/WNUv7y8ds4dXoVkH8) or [this form (Postdoc)](https://forms.gle/AwWxjcEsCD9LdswFA) and send me an email :)**</span> -->
 
 
-Email: [weiyans@stanford.edu](mailto:weiyans@stanford.edu)
+Email: [we.shi at northeastern.edu](mailto:we.shi@northeastern.edu)
 
 
 [Google Scholar](https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2) 
