@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome! I am an assistant professor at Northeastern University, jointly appointed by ECE and Khoury CS. I graduated with my PhD in Computer Science at [Columbia University](https://www.cs.columbia.edu/), advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/). I spent one year as a Postdoc at Stanford NLP, working with [Diyi Yang](http://www.diyiyang.com/). Previously, I completed my master's degree in Statistics from the [University of California, Berkeley](https://statistics.berkeley.edu/) and my B.S. in Mathematics from [Renmin University of China](https://www.ruc.edu.cn/en). I have worked in the SF bay area as a full-time data scientist on customer service chatbots for two years before starting my PhD.
+Welcome! I am an assistant professor at Northeastern University, jointly appointed by ECE and Khoury CS. I work on Natural Language Processing and specifically **persuasive dialogues**. I graduated with my PhD in Computer Science at Columbia University, advised by Prof. [Zhou Yu](http://www.cs.columbia.edu/~zhouyu/). I spent one year as a Postdoc at Stanford NLP, working with Prof. [Diyi Yang](http://www.diyiyang.com/). Previously, I completed my master's degree in Statistics from the University of California, Berkeley and my B.S. in Mathematics from Renmin University of China. I have worked in the SF bay area as a full-time data scientist on customer service chatbots for two years before starting my PhD.
 
 <!-- <span style="color:blue">**I am joining Northeastern University as a tenure-track assistant professor in Fall 2024. If you are interested in working with me, <u>make sure</u> to fill out [this form (PhD/intern)](https://forms.gle/WNUv7y8ds4dXoVkH8) or [this form (Postdoc)](https://forms.gle/AwWxjcEsCD9LdswFA) and send me an email :)**</span> -->
 
@@ -24,12 +24,12 @@ Links: [Research Overview](#research-overview) / [Updates](#updates) / [Awards](
 
 
 ## Research Overview
-My research interests are in Natural Language Processing, especially **intelligent interactive systems** 🤖 and the following directions:
-* **Interactive systems specialized in social influence for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://aclanthology.org/P19-1566/), [\[CHI 2020\]](https://dl.acm.org/doi/10.1145/3313831.3376843), [\[AAAI 2020\]](https://ojs.aaai.org/index.php/AAAI/article/view/6345), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431), [\[EMNLP 2020b\]](https://aclanthology.org/2020.emnlp-main.654), [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375), [\[AACL 2022\]](https://arxiv.org/abs/2203.07657), [\[New preprint\]](https://arxiv.org/abs/2210.05664), [\[Science\]](https://www.science.org/doi/10.1126/science.ade9097)
+My research interests are in Natural Language Processing, especially **persuasive dialogue systems** 🤖 and the following directions:
+* **Interactive systems specialized in social influence for social good (e.g., persuasive dialogues):** [\[ACL 2019\]](https://aclanthology.org/P19-1566/), [\[CHI 2020\]](https://dl.acm.org/doi/10.1145/3313831.3376843), [\[AAAI 2020\]](https://ojs.aaai.org/index.php/AAAI/article/view/6345), [\[EMNLP 2020a\]](https://aclanthology.org/2020.findings-emnlp.431), [\[EMNLP 2020b\]](https://aclanthology.org/2020.emnlp-main.654), [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375), [\[AACL 2022\]](https://arxiv.org/abs/2203.07657), [\[EACL 2023\]](https://arxiv.org/abs/2210.05664), [\[Science\]](https://www.science.org/doi/10.1126/science.ade9097)
 * **Privacy-preserving NLP models:** [\[NAACL 2021\]](https://aclanthology.org/2022.naacl-main.205), [\[EMNLP 2022\]](https://arxiv.org/abs/2204.07667)
-* **Task-oriented and open-domain dialogue systems:** [\[ACL 2018\]](https://aclanthology.org/P18-1140), [\[NAACL 2019\]](https://aclanthology.org/N19-1178), [\[EMNLP 2019\]](https://aclanthology.org/D19-1206), [\[EMNLP 2020\]](https://aclanthology.org/2020.emnlp-main.148), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40), [\[New preprint\]](https://arxiv.org/abs/2210.15893)
-* **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375) [\[New preprint\]](https://arxiv.org/abs/2211.12615) 
-* **Learning through interaction:** [\[New preprint\]](https://arxiv.org/abs/2210.15893)
+* **Task-oriented and open-domain dialogue systems:** [\[ACL 2018\]](https://aclanthology.org/P18-1140), [\[NAACL 2019\]](https://aclanthology.org/N19-1178), [\[EMNLP 2019\]](https://aclanthology.org/D19-1206), [\[EMNLP 2020\]](https://aclanthology.org/2020.emnlp-main.148), [\[ACL 2021\]](https://aclanthology.org/2021.acl-short.40), [\[NAACL 2024\]](https://arxiv.org/abs/2210.15893)
+<!-- * **Intelligible dialogue generation:** [\[EMNLP 2021\]](https://arxiv.org/abs/2012.15375) [\[New preprint\]](https://arxiv.org/abs/2211.12615)  -->
+* **Learning through interaction:** [\[NAACL 2024\]](https://arxiv.org/abs/2210.15893)
 <!-- * [\[Preprint\]](https://drive.google.com/file/d/17NhNBFhKF0d-JXZrfHgomaQGqPEhUYJN/view?usp=sharing) -->
 
 My **research vision** is to build a natural interface between human intelligence and machine intelligence via natural conversations, so that all members of society can interact with AI models seamlessly regardless of their backgrounds. 
@@ -37,6 +37,7 @@ My **research vision** is to build a natural interface between human intelligenc
 
 <!-- [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) -->
 ## Updates
+**Sept 2024**: Excited to be named as [35 Innovators under 35](https://www.technologyreview.com/innovator/weiyan-shi/) by MIT Tech Review!  
 **Aug 2024**: We got TWO paper awards at ACL this year! 
 * **Best Social Impact Paper**: [Persuasive Jailbreaker](https://arxiv.org/abs/2401.06373)
 * **Outstanding Paper**: [Persuasive misinformation](https://arxiv.org/abs/2312.09085) 
@@ -70,9 +71,10 @@ My **research vision** is to build a natural interface between human intelligenc
 
 
 ## Awards
+* [MIT Tech Review 35 Innovators under 35](https://www.technologyreview.com/innovator/weiyan-shi/)
 * [Best Social Impact Paper, ACL 2024](https://arxiv.org/abs/2401.06373)
 * [Outstanding Paper, ACL 2024](https://arxiv.org/abs/2312.09085)
-* Rising Stars in AI, KAUST, 2023
+<!-- * Rising Stars in AI, KAUST, 2023 -->
 * [Rising Stars in EECS, 2023](https://eecsrisingstars2023.cc.gatech.edu/participants/)
 * [Rising Stars in Machine Learning, 2022](https://ml.umd.edu/rising-stars)
 * [Best Paper Nomination, ACL 2019](https://aclanthology.org/P19-1566/) 
