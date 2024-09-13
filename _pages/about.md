@@ -37,7 +37,8 @@ My **research vision** is to build a natural interface between human intelligenc
 
 <!-- [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) -->
 ## Updates
-**Sept 2024**: Excited to be named as [35 Innovators under 35](https://www.technologyreview.com/innovator/weiyan-shi/) by MIT Tech Review!  
+**Sept 2024**: Excited to be named as [35 Innovators under 35](https://www.technologyreview.com/innovator/weiyan-shi/) by MIT Tech Review! 
+ 
 **Aug 2024**: We got TWO paper awards at ACL this year! 
 * **Best Social Impact Paper**: [Persuasive Jailbreaker](https://arxiv.org/abs/2401.06373)
 * **Outstanding Paper**: [Persuasive misinformation](https://arxiv.org/abs/2312.09085) 
@@ -50,7 +51,7 @@ My **research vision** is to build a natural interface between human intelligenc
 **July 2023**: Checkout CHATS' lab's first project, [KokoMind](https://chats-lab.github.io/KokoMind/)
 
 
-**2023**: Talk "Interactive AI Systems Specialized in Social Influence" at the University of Hawaii (2023/01), Rice (2023/01), Northwestern Stats and Data Science (2023/01), ASU (2023/02), Purdue (2023/02), CMU (2023/02), Northeastern (2023/03), UW-Madison i-School (2023/03), PSU (2023/03), Cornell Tech (2023/04), NYU (2023/05), Stanford NLP (2023/06).  
+<!-- **2023**: Talk "Interactive AI Systems Specialized in Social Influence" at the University of Hawaii (2023/01), Rice (2023/01), Northwestern Stats and Data Science (2023/01), ASU (2023/02), Purdue (2023/02), CMU (2023/02), Northeastern (2023/03), UW-Madison i-School (2023/03), PSU (2023/03), Cornell Tech (2023/04), NYU (2023/05), Stanford NLP (2023/06).   -->
 
 **Jan 2023**: Our Cicero work made it into the [<span style="color:Salmon">New York Times front page</span>](https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html)!
 
