@@ -1,0 +1,467 @@
+<!doctype html>
+<html class="no-js" lang="">
+<style>
+  /* CSS */
+  .button-4 {
+    background: none !important;
+    border: none;
+    padding: 0 !important;
+    /*optional*/
+    /* font-family: arial, sans-serif; */
+    /*input has OS specific font-family*/
+    /* font-size: 18px; */
+    /* color: #069; */
+    font-weight: bold
+      /* text-decoration: underline; */
+      /* text-decoration: bold; */
+      /* cursor: pointer; */
+
+
+  }
+
+  .button-4:hover {
+    background-color: #F3F4F6;
+    text-decoration: none;
+    transition-duration: 0.1s;
+  }
+
+  .button-4:disabled {
+    background-color: #FAFBFC;
+    border-color: rgba(27, 31, 35, 0.15);
+    color: #959DA5;
+    cursor: default;
+  }
+
+  .button-4:active {
+    background-color: #EDEFF2;
+    box-shadow: rgba(225, 228, 232, 0.2) 0 1px 0 inset;
+    transition: none 0s;
+  }
+
+  .button-4:focus {
+    outline: 1px transparent;
+  }
+
+  .button-4:before {
+    display: none;
+  }
+
+  .button-4:-webkit-details-marker {
+    display: none;
+  }
+</style>
+
+<head>
+  <meta charset="utf-8">
+  <title>Weiyan Shi</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Nunito" />
+
+  <meta name="theme-color" content="#fafafa">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body>
+
+  <!-- Add your site or application content here -->
+
+  <!--Website header-->
+  <div id="introduction-wrapper">
+    <img id="main-profile-pic" src="./img/Weiyan_Shi.jpeg" alt="Weiyan Shi">
+
+    <div id="bio">
+      <h1>Weiyan Shi</h1>
+      <p style="margin: 0"><a href="mailto:we.shi@northeastern.edu">we.shi@northeastern.edu</a></p>
+      <!-- <p style="margin: 0">Assistant Professor</p> -->
+      <p style="margin: 0"><a href="https://x.com/shi_weiyan">Twitter</a> & <a
+          href="https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2&oi=ao">
+          Google Scholar</a></p>
+      <p style="margin: 0"><a href="https://ece.northeastern.edu/">ECE</a> & <a
+          href="https://www.khoury.northeastern.edu/"> Khoury Computer Science</a></p>
+      <p style="margin: 0"><a href="https://www.northeastern.edu/">Northeastern University</a></p>
+
+
+
+      <!-- <p style="margin: 0">Gates 342</p> -->
+    </div>
+  </div>
+  <!--end of website header-->
+
+  <!--Navigation bar-->
+  <div id="menu">
+    <div>
+      <a href="index.html">Home</a>
+    </div>
+    <div>
+      <a href="group.html">CHATS Lab</a>
+    </div>
+    <div>
+      <a href="research.html">Publications</a>
+    </div>
+    <div>
+      <a href="teaching.html">Teaching</a>
+    </div>
+    <!-- <div>
+      <a href="teaching.html">Blog</a>
+    </div> -->
+    <script>
+      $(function () {
+        const current = window.location.pathname.split("/");
+        $('#menu div a').each(function () {
+          const $this = $(this);
+          // if the current path is like this link, make it active
+          if (current.indexOf($this.attr("href")) !== -1) {
+            $this.parent().addClass("now");
+          }
+        })
+      });
+    </script>
+  </div>
+  <!--end of Navigation bar-->
+
+  <!--Actual tab content-->
+  <div id="main">
+    <a href="https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2&oi=ao"><u>[Google Scholar]</u></a>
+    <br>
+    <h2>Recent Preprints</h2>
+    <ul>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">NewsInterview: a Dataset and a Playground to
+          Evaluate LLMs' Ground Gap via Informational
+          Interviews</p>
+        <p class="paper_authors">Michael Lu, Hyundong Justin Cho, Weiyan Shi, Jonathan May, Alexander Spangher</p>
+        <p class="paper_venue">arXiv, 2024 <a href="https://arxiv.org/abs/2412.15701"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Towards Social AI: A Survey on Understanding Social Interactions</p>
+        <p class="paper_authors">Sangmin Lee, Minzhi Li, Bolin Lai, Wenqi Jia, Fiona Ryan, Xu Cao, Ozgur Kara, Bikram
+          Boote, Weiyan Shi, Diyi Yang, James
+          M. Rehg
+        </p>
+        <p class="paper_venue">arXiv:2411.02391, 2024 <a href="https://arxiv.org/abs/2409.15316"><u>[pdf]</u></a></p>
+      </li>
+    </ul>
+
+    <h2>Publications <a href="https://scholar.google.com/citations?user=j9jhYqQAAAAJ&amp;hl=en"><small>[Google
+          Scholar]</small></a>
+      <button class="button-4" role="button" id="btn_selected" autofocus><small>[Show Selected]</small></button>
+      <button class="button-4" role="button" id="btn_all"><small>[Show All]</small></button>
+    </h2>
+
+    <!-- <button id="btn_all">Show All</button> -->
+    <script src="index.js"></script>
+    <ul>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Proactive Conversational Agents with Inner Thoughts</p>
+        <p class="paper_authors">Xingyu Bruce Liu, Shitao Fang, Weiyan Shi, Chien-Sheng Wu, Takeo Igarashi, Xiang
+          Anthony Chen</p>
+        <p class="paper_venue">CHI, 2025 <a href="https://arxiv.org/abs/2501.00383"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">PrivacyLens: Evaluating Privacy Norm Awareness of Language Models in Action</p>
+        <p class="paper_authors">Yijia Shao, Tianshi Li, Weiyan Shi, Yanchen Liu, Diyi Yang</p>
+        <p class="paper_venue">NeurIPS D&B, 2024 <a href="https://arxiv.org/abs/2409.00138"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Zero-shot Persuasive Chatbots with LLM-Generated Strategies and Information Retrieval</p>
+        <p class="paper_authors">Kazuaki Furumai, Roberto Legaspi, Julio Vizcarra, Yudai Yamazaki, Yasutaka Nishimura,
+          Sina J Semnani, Kazushi Ikeda,
+          Weiyan Shi, Monica S Lam</p>
+        <p class="paper_venue">EMNLP Findings, 2024 <a href="https://arxiv.org/abs/2407.03585"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language
+          Technologies</p>
+        <p class="paper_authors">Weiyan Shi, Ryan Li, Yutong Zhang, Caleb Ziems, Chunhua yu, Raya Horesh, Rogério Abreu
+          de Paula, Diyi Yang</p>
+        <p class="paper_venue">EMNLP Findings, 2024 <a href="https://arxiv.org/abs/2404.15238"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_all">
+        <p class="paper_title">Dialoging Resonance in Human-Chatbot Conversation: How Users Perceive and Reciprocate
+          Recommendation Chatbot's
+          Self-Disclosure Strategy</p>
+        <p class="paper_authors">Kai-Hui Liang, Weiyan Shi, Yoo Jung Oh, Hao-Chuan Wang, Jingwen Zhang, Zhou Yu</p>
+        <p class="paper_venue">CSCW, 2024 <a href="https://dl.acm.org/doi/abs/10.1145/3653691"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_all">
+        <p class="paper_title">A Safe Harbor for AI Evaluation and Red Teaming</p>
+        <p class="paper_authors">Shayne Longpre, Sayash Kapoor, Kevin Klyman, Ashwin Ramaswami, Rishi Bommasani, Borhane
+          Blili-Hamelin, Yangsibo Huang,
+          Aviya Skowron, Zheng-Xin Yong, Suhas Kotha, Yi Zeng, Weiyan Shi, Xianjun Yang, Reid Southen, Alexander Robey,
+          Patrick
+          Chao, Diyi Yang, Ruoxi Jia, Daniel Kang, Sandy Pentland, Arvind Narayanan, Percy Liang, Peter Henderson</p>
+        <p class="paper_venue">ICML, 2024, position paper <a href="https://arxiv.org/abs/2403.04893"><u>[pdf]</u></a>
+        </p>
+        <!-- <p class="paper_note">Oral</p> -->
+      </li>
+      <li class="paper_wrapper_all">
+        <p class="paper_title">Social Intelligence Data Infrastructure: Structuring the Present and Navigating the
+          Future</p>
+        <p class="paper_authors">Minzhi Li, Weiyan Shi, Caleb Ziems, Diyi Yang</p>
+        <p class="paper_venue">ACL Findings, 2024 <a href="https://arxiv.org/abs/2403.14659"><u>[pdf]</u></a></p>
+      </li>
+
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">How Johnny Can Persuade LLMs to Jailbreak Them: Rethinking Persuasion to Challenge AI
+          Safety by Humanizing LLMs
+        </p>
+        <p class="paper_authors">Yi Zeng, Hongpeng Lin, Jingwen Zhang, Diyi Yang, Ruoxi Jia, Weiyan Shi
+        </p>
+        <p class="paper_venue">ACL, 2024. <a href="https://arxiv.org/abs/2401.06373"><u>[pdf]</u></a> <a
+            href="https://chats-lab.github.io/persuasive_jailbreaker/"><u>[project page]</u></a> <a
+            href="https://github.com/CHATS-lab/persuasive_jailbreaker"><u>[code & data]</u></a></p>
+        <p class="paper_note">Best Social Impact Paper</p>
+
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">The Mirrored Influence Hypothesis: Efficient Data Influence Estimation by Harnessing
+          Forward Passes</p>
+        <p class="paper_authors">Myeongseob Ko, Feiyang Kang, Weiyan Shi, Ming Jin, Zhou Yu, Ruoxi Jia</p>
+        <p class="paper_venue"> CVPR, 2024. <a href="https://arxiv.org/abs/2402.08922"><u>[pdf]</u></u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via
+          Persuasive Conversation</p>
+        <p class="paper_authors">Rongwu Xu, Brian S Lin, Shujian Yang, Tianqi Zhang, Weiyan Shi, Tianwei Zhang, Zhixuan
+          Fang, Wei Xu, Han Qiu
+        </p>
+        <p class="paper_venue"> ACL, 2024. <a href="https://arxiv.org/abs/2312.09085"><u>[pdf]</u></a> <a
+            href="https://llms-believe-the-earth-is-flat.github.io/"><u>[project page]</u> </a> <a
+            href="https://github.com/pillowsofwind/llms-believe-the-earth-is-flat"><u>[code & data]</u></a></u></p>
+        <p class="paper_note">Outstanding Paper</p>
+
+      </li>
+      <li class="paper_wrapper_all">
+        <p class="paper_title">AutoReply: Detecting Nonsense in Dialogue with Discriminative Replies</p>
+        <p class="paper_authors">Weiyan Shi, Emily Dinan, Adi Renduchintala, Daniel Fried, Athul Jacob, Zhou Yu, Mike
+          Lewis
+        </p>
+        <p class="paper_venue"> EMNLP Findings, 2023. <a
+            href="https://aclanthology.org/2023.findings-emnlp.23/"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_all">
+        <p class="paper_title">Controllable Mixed-Initiative Dialogue Generation through Prompting
+        </p>
+        <p class="paper_authors">Maximillian Chen, Xiao Yu, Weiyan Shi, Urvi Awasthi, Zhou Yu
+        </p>
+        <p class="paper_venue">ACL, 2023. <a href="https://arxiv.org/abs/2310.06837"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Human-level play in the game of Diplomacy by combining language models with strategic
+          reasoning</p>
+        <p class="paper_authors">Meta Fundamental AI Research Diplomacy Team (FAIR)†, Anton Bakhtin*, Noam Brown*, Emily
+          Dinan*, Gabriele Farina, Colin
+          Flaherty*, Daniel Fried, Andrew Goff, Jonathan Gray*, Hengyuan Hu*, Athul Paul Jacob*, Mojtaba Komeili,
+          Karthik
+          Konath,
+          Minae Kwon, Adam Lerer*, Mike Lewis*, Alexander H Miller*, Sasha Mitts, Adithya Renduchintala*, Stephen
+          Roller,
+          Dirk Rowe,
+          Weiyan Shi*, Joe Spisak, Alexander Wei, David Wu*, Hugh Zhang*, Markus Zijlstra</p>
+        <p class="paper_authors">(A member of the core research team. Authors listed alphabetically.)</p>
+        <p class="paper_venue"> Science, 2022. <a
+            href="https://www.science.org/doi/10.1126/science.ade9097"><u>[pdf]</u></a>
+          <a href="https://github.com/facebookresearch/diplomacy_cicero"><u>[code]</u></a>
+        </p>
+        <p class="paper_venue">Selected Media Coverage.
+        </p>
+        <p class="paper_note"><a href="https://www.nytimes.com/2023/01/20/technology/chatbots-turing-test.html">[New
+            York Times (front page)] </a><a
+            href="https://www.washingtonpost.com/technology/2022/12/01/meta-diplomacy-ai-cicero/">[The
+            Washington Post] </a><a
+            href="https://www.economist.com/science-and-technology/2022/11/24/another-game-falls-to-an-ai-player?utm_medium=social-media.content.np&utm_source=twitter&utm_campaign=editorial-social&utm_content=discovery.content">[The
+            Economist] </a><a
+            href="https://www.technologyreview.com/2022/11/23/1063648/metas-game-playing-ai-can-make-and-break-alliances-like-a-human/">[MIT
+            Technology Review] </a><a
+            href="https://www.forbes.com/sites/carlieporterfield/2022/11/22/metas-ai-gamer-beat-humans-in-diplomacy-using-strategy-and-negotiation/?sh=14a47ba5788b">[Forbes]
+          </a><a href="https://ai.facebook.com/research/cicero/"><u>[Meta AI
+              blog post] </u></a>
+          <a href="https://www.science.org/content/article/ai-learns-art-diplomacy-game"><u>[Commentary in Science
+              News]</u></a>
+        </p>
+
+      </li>
+
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">When Life Gives You Lemons, Make Cherryade: Converting Feedback from Bad Responses into
+          Good Labels
+        </p>
+        <p class="paper_authors">Weiyan Shi, Emily Dinan, Kurt Shuster, Jason Weston, Jing Xu
+
+        </p>
+        <p class="paper_venue">NAACL, 2024. <a href="https://arxiv.org/abs/2210.15893"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Social Influence Dialogue Systems: A Survey of Datasets and Models For Social Influence
+          Tasks
+
+        </p>
+        <p class="paper_authors">Kushal Chawla, Weiyan Shi, Jingwen Zhang, Gale Lucas, Zhou Yu, Jonathan Gratch
+
+
+        </p>
+        <p class="paper_venue">EACL, 2023. <a href="https://arxiv.org/abs/2210.05664"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Just Fine-tune Twice: Selective Differential Privacy for Large Language Models
+        </p>
+        <p class="paper_authors">Weiyan Shi, Ryan Shea, Si Chen, Chiyuan Zhang, Ruoxi Jia, Zhou Yu
+        </p>
+        <p class="paper_venue">EMNLP, 2022. <a href="https://arxiv.org/abs/2204.07667"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_all">
+        <p class="paper_title">Seamlessly Integrating Factual Information and Social Content with Persuasive Dialogue
+        </p>
+        <p class="paper_authors">Maximillian Chen, Weiyan Shi, Feifan Yan, Ryan Hou, Jingwen Zhang, Saurav Sahay, Zhou
+          Yu
+        </p>
+        <p class="paper_venue">AACL, 2022. <a href="https://arxiv.org/abs/2203.07657"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Selective Differential Privacy for Language Modeling
+        </p>
+        <p class="paper_authors">Weiyan Shi, Aiqi Cui, Evan Li, Ruoxi Jia, Zhou Yu
+        </p>
+        <p class="paper_venue">NAACL, 2022. <a href="https://arxiv.org/abs/2108.12944"><u>[pdf]</u></a> <a
+            href="https://github.com/wyshi/lm_privacy"><u>[code & data]</u></a> <a
+            href="https://aclanthology.org/2022.naacl-main.205.mp4"><u>[talk]</u></a></p>
+      </li>
+      <li class="paper_wrapper_all">
+        <p class="paper_title">PRAL: A Tailored Pre-Training Model for Task-Oriented Dialog Generation
+        </p>
+        <p class="paper_authors">Jing Gu, Qingyang Wu, Chongruo Wu, Weiyan Shi, Zhou Yu
+        </p>
+        <p class="paper_venue">ACL, 2021. <a href="https://aclanthology.org/2021.acl-short.40/"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_all">
+        <p class="paper_title">LEGOEval: An Open-Source Toolkit for Dialogue System Evaluation via Crowdsourcing
+        </p>
+        <p class="paper_authors">Yu Li, Josh Arnold, Feifan Yan, Weiyan Shi, Zhou Yu
+        </p>
+        <p class="paper_venue">ACL Demo, 2021. <a href="https://arxiv.org/abs/2105.01992"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Refine and Imitate: Reducing Repetition and Inconsistency in Persuasion Dialogues via
+          Reinforcement Learning and Human
+          Demonstration
+        </p>
+        <p class="paper_authors">Weiyan Shi, Yu Li, Saurav Sahay, Zhou Yu
+        </p>
+        <p class="paper_venue">EMNLP Findings, 2021. <a href="https://arxiv.org/abs/2012.15375"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Understanding User Resistance Strategies in Persuasive Conversations
+
+        </p>
+        <p class="paper_authors">Youzhi Tian, Weiyan Shi, Chen Li, Zhou Yu
+
+        </p>
+        <p class="paper_venue">EMNLP Findings, 2020. <a
+            href="https://aclanthology.org/2020.findings-emnlp.431/"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">INSPIRED: Toward Sociable Recommendation Dialog Systems
+
+
+        </p>
+        <p class="paper_authors">Shirley Anugrah Hayati, Dongyeop Kang, Qingxiaoyang Zhu, Weiyan Shi, Zhou Yu
+
+
+
+        </p>
+        <p class="paper_venue">EMNLP, 2020. <a href="https://arxiv.org/abs/2009.14306"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Effects of Persuasive Dialogues: Testing Bot Identities and Inquiry Strategies
+
+
+        </p>
+        <p class="paper_authors">Weiyan Shi, Xuewei Wang, Yoo Jung Oh, Jingwen Zhang, Saurav Sahay, Zhou Yu
+
+        </p>
+        <p class="paper_venue">CHI, 2020. <a href="https://arxiv.org/abs/2001.04564"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">End-to-End Trainable Non-Collaborative Dialog System
+        </p>
+        <p class="paper_authors">Yu Li, Kun Qian, Weiyan Shi, Zhou Yu
+        </p>
+        <p class="paper_venue">AAAI, 2020. <a href="https://arxiv.org/abs/1911.10742"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Persuasion for Good: Towards a Personalized Persuasive Dialogue System for Social Good
+
+        </p>
+        <p class="paper_authors">Xuewei Wang*, Weiyan Shi*, Richard Kim, Yoojung Oh, Sijia Yang, Jingwen Zhang, Zhou Yu
+        </p>
+        <p class="paper_authors">*Equal Contribution
+        </p>
+        <p class="paper_venue">ACL, 2019. <a href="https://arxiv.org/abs/1906.06725"><u>[pdf]</u></a> <a
+            href="https://gitlab.com/ucdavisnlp/persuasionforgood"><u>[code & data]</u></a> <a
+            href="https://vimeo.com/385225678?turnstile=0.5ERT60-2_Ma8MB30OLvsx4p-jtpPJ_GT2WAgdr2et9s19AOZbsBvj89--unS8DgtEdskJvY1ZlrJqI53hOIy1cZbLhIDWiVu7crcpKR7mQWNzOiPTsws8LYUE0e5K5V9Q4hDVeJvFJI_1D2wGEe5iA8KBKNE-s--gjQnY_WQ-kg-ferRoObE4VXKQvr4Hqyi4U1nMSkZMM1ApN0GBIUfYFfPiZ247N-G136lMHhboZld8e9gLokixpP3F1F7Py5eshr6kc4V4sowv7VZYHgbghLQQwuLxsl3X4KqRbCuK4SD3DDmVpXZYLR5zsDLH5FdIhEas30p9m5J0f3WvFJpCANRdHs5viKn6MtGtRSGvfRqxSbPwc2GHL--8huK-ctnDi22otj18BdSKZnxt7xhtUr27NQiCwOIaof4mHIlW8T5XgO27N_7l3ZCfPf5fCnm1CP_NDhny0x9gMtT0b-9_bCL__ULQSg0sjwfvZW7YGe1t5o7o1Kwj6lHWJxLlv_sh4NSKD0GKFEOpSgz0SPjBZygh7kv8baUrZfR8m3ATnuOAyaBJLn8r2Y-QnYYYsX9ZlcTmn8YKfAntNzkx8bmqaBoE5TuMicYs8qUh7xqWjOAy4Ai3pS3GCUeJ3_pFnA6j_q5_fOifX9Tpaf2ttvpjLBjPYBGtklXZj7sbEfZ3RLhhhDc80a8fp4KJsstta5OBdRM268Aq5hTWDem9BpbaMWrjvknDeG03QC16O31bSx7g7vMj9_PWqXj6AqmASCKkzXZ-YlU87VOLmdeCA8a1iCCBsiB6Lm2UIoVu8JQOgh6u6M2Js2ibzL_9k3lVQazGQRZxIuix-EuVqYA6QMXJ5QoNUCdaFXIzxiqM9L_Pp0uoJ57CjkI_QB2WtjWGi9d.iiWSg79BiNrEOa9lc7rSQA.04b6b8b9645756472ab0b5bc31cce3ca9b015a964cf02e367319c893749c1c18"><u>[talk]</u></a>
+        </p>
+        <p class="paper_note">Best Paper Nomination</p>
+
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Unsupervised Dialog Structure Learning
+
+        </p>
+        <p class="paper_authors">Weiyan Shi, Tiancheng Zhao, Zhou Yu
+
+        </p>
+        <p class="paper_venue">NAACL, 2019. <a href="https://arxiv.org/abs/1904.03736"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">How to Build User Simulators to Train RL-based Dialog Systems
+
+        </p>
+        <p class="paper_authors">Weiyan Shi, Kun Qian, Xuewei Wang, Zhou Yu
+
+        </p>
+        <p class="paper_venue">EMNLP, 2019. <a href="https://arxiv.org/abs/1909.01388"><u>[pdf]</u></a></p>
+      </li>
+      <li class="paper_wrapper_selected">
+        <p class="paper_title">Sentiment Adaptive End-to-End Dialog Systems
+
+
+        </p>
+        <p class="paper_authors">Weiyan Shi, Zhou Yu
+
+
+        </p>
+        <p class="paper_venue">ACL, 2018. <a href="https://arxiv.org/abs/1804.10731"><u>[pdf]</u></a></p>
+      </li>
+
+    </ul>
+  </div>
+  <!-- Acknowledgment Section -->
+  <footer>
+    <br>
+    <br>
+    <small style="display: block; text-align: center; margin-top: 20px; color: gray;">Special thanks to <a
+        href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a> for sharing
+      the amazing website design</small>
+  </footer>
+  <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+</body>
+
+</html>

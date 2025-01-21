@@ -1,0 +1,192 @@
+<!doctype html>
+<html class="no-js" lang="">
+
+<head>
+  <meta charset="utf-8">
+  <title>Weiyan Shi</title>
+  <meta name="description" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <meta property="og:title" content="">
+  <meta property="og:type" content="">
+  <meta property="og:url" content="">
+  <meta property="og:image" content="">
+
+  <link rel="manifest" href="site.webmanifest">
+  <link rel="apple-touch-icon" href="icon.png">
+  <link rel="shortcut icon" href="favicon.ico" type="image/vnd.microsoft.icon">
+  <!-- Place favicon.ico in the root directory -->
+
+  <link rel="stylesheet" href="css/normalize.css">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Nunito" />
+
+  <meta name="theme-color" content="#fafafa">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body>
+
+  <!-- Add your site or application content here -->
+
+  <!--Website header-->
+  <div id="introduction-wrapper">
+    <img id="main-profile-pic" src="./img/Weiyan_Shi.jpeg" alt="Weiyan Shi">
+
+    <div id="bio">
+      <h1>Weiyan Shi</h1>
+      <p style="margin: 0"><a href="mailto:we.shi@northeastern.edu">we.shi@northeastern.edu</a></p>
+      <!-- <p style="margin: 0">Assistant Professor</p> -->
+      <p style="margin: 0"><a href="https://x.com/shi_weiyan">Twitter</a> & <a
+          href="https://scholar.google.com/citations?user=xj666rUAAAAJ&hl=en&authuser=2&oi=ao">
+          Google Scholar</a></p>
+      <p style="margin: 0"><a href="https://ece.northeastern.edu/">ECE</a> & <a
+          href="https://www.khoury.northeastern.edu/"> Khoury Computer Science</a></p>
+      <p style="margin: 0"><a href="https://www.northeastern.edu/">Northeastern University</a></p>
+
+
+
+      <!-- <p style="margin: 0">Gates 342</p> -->
+    </div>
+  </div>
+  <!--end of website header-->
+
+  <!--Navigation bar-->
+  <div id="menu">
+    <div>
+      <a href="index.html">Home</a>
+    </div>
+    <div>
+      <a href="group.html">CHATS Lab</a>
+    </div>
+    <div>
+      <a href="research.html">Publications</a>
+    </div>
+    <div>
+      <a href="teaching.html">Teaching</a>
+    </div>
+    <!-- <div>
+      <a href="teaching.html">Blog</a>
+    </div> -->
+    <script>
+      $(function () {
+        const current = window.location.pathname.split("/");
+        $('#menu div a').each(function () {
+          const $this = $(this);
+          // if the current path is like this link, make it active
+          if (current.indexOf($this.attr("href")) !== -1) {
+            $this.parent().addClass("now");
+          }
+        })
+      });
+    </script>
+  </div>
+  <!--end of Navigation bar-->
+
+  <!--Actual tab content-->
+  <div id="main">
+    <div>
+      <p>I am an assistant professor at <a href="https://www.northeastern.edu/">Northeastern University</a>, jointly
+        appointed by <a href="https://ece.northeastern.edu/">ECE</a> and <a href="https://www.khoury.northeastern.edu/">
+          Khoury Computer
+          Science</a>. I work on Natural Language Processing, Conversational AI, and AI safety. My research vision is to
+        build a natural interface between human intelligence and machine intelligence via natural
+        conversations, so that all members of society can interact with AI models seamlessly and safely.
+
+        <!-- In more details, I study
+        <b>how
+          to build chatbots</b> and <b>how to break chatbots</b>. -->
+      </p>
+      <!-- <p><b>Prospective students and postdocs</b>, please check out <a href="getinvolved.html"><b>this page</b> on how -->
+      <!-- to get involved</a>. -->
+    </div>
+    <div>
+      <h2>Research Overview</h2>
+      I study how
+      to <b>build chatbots</b>, how to <b> break chatbots</b>. I also work on <b>AI-driven persuasion</b>.
+      </p>
+      <ul class="list_no_dot">
+        <li><b>Persuade humans for social good</b>: <a href="https://aclanthology.org/P19-1566/">PersuasionForGood</a>,
+          <a href="https://ojs.aaai.org/index.php/AAAI/article/view/6345">Anti-scam Chatbot</a>, <a
+            href="https://aclanthology.org/2020.emnlp-main.654"> Movie Recommendation</a>,
+          <a href="https://www.science.org/doi/10.1126/science.ade9097">Cicero</a>
+        </li>
+        <li><b>Persuade AI to study AI safety</b>: <a href="https://aclanthology.org/2024.acl-long.773/">Persuasive
+            Jailbreaker</a>,
+          <a href="https://aclanthology.org/2024.acl-long.858/">Persuasive Misinformation</a>
+        </li>
+        <li><b>Understand AI's societal impact</b>: <a href="https://dl.acm.org/doi/10.1145/3313831.3376843">Donation
+            Persuasion</a>,
+          <a href="https://aclanthology.org/2024.findings-emnlp.288/">CultureBank</a>
+        </li>
+        <li><b>Task-oriented and open-domain conversational AI</b>: <a href="https://arxiv.org/abs/2210.15893">Learning
+            through interaction</a>,
+          <a href="https://aclanthology.org/P18-1140">User sentiment adaptation</a>
+        </li>
+        <li><b>Privacy in AI</b>: <a href="https://aclanthology.org/2022.naacl-main.205/">Selective
+            Differential Privacy</a>,
+          <a href="https://arxiv.org/abs/2409.00138">PrivacyLens</a>
+        </li>
+      </ul>
+    </div>
+    <div>
+
+      <div>
+        <h2>About Me</h2>
+        <ul class="list_no_dot">
+          <li>Assistant Professor, ECE & CS, Northeastern University, 2024.8 - Present</li>
+          <li>Postdoc, <a href="https://nlp.stanford.edu/">Stanford NLP</a>, Stanford University, 2023 - 2024</li>
+          <li>Ph.D. in <a href="https://www.cs.columbia.edu/">Computer Science</a>, <a
+              href="https://www.columbia.edu/">Columbia University</a>, 2021 - 2023 </li>
+          <!-- <li>Data Scientist, Bay Area, 2018</li> -->
+          <li>M.A. in <a href="https://statistics.berkeley.edu/"> Statistics</a>, University of California, Berkeley,
+            2015 - 2016 </li>
+          <li>B.S. in Mathematics, Remin University of China, 2011 - 2015 </li>
+        </ul>
+      </div>
+      <div>
+        <h2>Awards/Honors</h2>
+        <ul class="list_no_dot">
+          <li><a href="https://www.technologyreview.com/innovator/weiyan-shi/">MIT Tech Review 35 Innovators under 35,
+              2024</a></li>
+          <li><a href="https://2024.aclweb.org/program/best_papers/">Best Social Impact Paper, ACL 2024</a></li>
+          <li><a href="https://2024.aclweb.org/program/best_papers/">Outstanding Paper, ACL 2024</a></li>
+          <li><a href="https://eecsrisingstars2023.cc.gatech.edu/participants/">Rising Stars in EECS</a>, 2023</li>
+          <li><a href="https://ml.umd.edu/rising-stars-previous-winners">Rising Stars in Machine Learning</a>, 2022</li>
+          <li><a href="https://acl2019.org/EN/nominations-for-acl-2019-best-paper-awards.xhtml.html">Best Paper
+              Nomination</a>, ACL 2019</li>
+          <li>Dean's Distinguished PhD Fellowship</li>
+          <li><a href="https://statistics.berkeley.edu/about/awards-and-honors/student-departmental-awards">Department
+              Citation (top 1)</a>, UC Berkeley, 2016</li>
+          <li>Speaker at Department Commencement (top 1), UC Berkeley, 2016</li>
+        </ul>
+      </div>
+      <div>
+        <h2>Recent Service</h2>
+        <ul class="list_no_dot">
+          <li>Area Chair, NAACL 2025</li>
+          <li>Area Chair, EMNLP 2024</li>
+          <li>Area Chair, ACL 2024</li>
+          <li>Area Chair, NAACL 2024</li>
+          <li>Area Chair, EMNLP 2023</li>
+          <li>Area Chair, 17th Women in Machine Learning Workshop (WiML 2022)</li>
+          <li>Workshop Organizer: Workshop on Social Influence in Conversations, ACL 2023 & EMNLP 2024</li>
+          <li>Workshop Organizer: Workshop for Conversational AI, ACL 2022</li>
+      </div>
+
+      <!-- Acknowledgment Section -->
+      <footer>
+        <br>
+        <br>
+        <small style="display: block; text-align: center; margin-top: 20px; color: gray;">Special thanks to <a
+            href="https://cs.stanford.edu/~diyiy/">Diyi Yang</a> for sharing
+          the amazing website design</small>
+      </footer>
+
+      <script src="js/vendor/modernizr-3.11.2.min.js"></script>
+      <script src="js/plugins.js"></script>
+      <script src="js/main.js"></script>
+</body>
+
+</html>
