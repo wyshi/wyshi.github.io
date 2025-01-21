@@ -37,8 +37,8 @@ My **research vision** is to build a natural interface between human intelligenc
 
 <!-- [Research Statement](http://wyshi.github.io/files/materials/research_statement.pdf) -->
 ## Updates
-**Sept 2024**: Excited to be named as [35 Innovators under 35](https://www.technologyreview.com/innovator/weiyan-shi/) by MIT Tech Review! 
- 
+**Sept 2024**: Excited to be named as [35 Innovators under 35](https://www.technologyreview.com/innovator/weiyan-shi/) by MIT Tech Review! Thanks!
+
 **Aug 2024**: We got TWO paper awards at ACL this year! 
 * **Best Social Impact Paper**: [Persuasive Jailbreaker](https://arxiv.org/abs/2401.06373)
 * **Outstanding Paper**: [Persuasive misinformation](https://arxiv.org/abs/2312.09085) 
